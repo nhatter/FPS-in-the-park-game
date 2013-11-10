@@ -46,6 +46,7 @@ public class Weapon : MonoBehaviour {
 				isFireSoundDue = true;
 			}
 			
+			soldier.animation.Play("StandingFire");
 			loopFireTimer += Time.deltaTime;
 		} else {		
 			if(!hasPlayedFinishedFireSound) {
