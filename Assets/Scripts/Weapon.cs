@@ -2,6 +2,9 @@
 using System.Collections;
 
 public class Weapon : MonoBehaviour {
+	public int ammo = 30;
+	public float fireRate = 0.1f;
+	
 	GameObject soldier;
 	GameObject casingEject;
 	float oldCasingEjectMaxEmission;
@@ -14,6 +17,7 @@ public class Weapon : MonoBehaviour {
 	bool hasFinishedFiring = false;
 	bool hasPlayedFinishedFireSound = true;
 	float loopFireTimer = 0;
+	float autoFireTimer = 0;
 	public float loopFireTime = 0.05f;
 	
 	bool isFireSoundDue = false;
@@ -29,25 +33,40 @@ public class Weapon : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.touches.Length == 1 || Input.GetMouseButton(0)) {
-			hasFinishedFiring = false;
-			hasPlayedFinishedFireSound = false;
-			
-			emit();
-			
-			if(loopFireTimer > loopFireTime) {
-				if(!audio.isPlaying && !audio.loop) {
-					audio.loop = true;
-					audio.clip = fireSound;
-					audio.Play();
+		if(Input.touches.Length == 1 || Input.GetMouseButton(0)){
+			if(ammo > 0) {
+				hasFinishedFiring = false;
+				hasPlayedFinishedFireSound = false;
+				
+				emit();
+				
+				autoFireTimer += Time.deltaTime;
+				if(autoFireTimer > fireRate) {
+					ammo--;
+					autoFireTimer = 0;
 				}
-				isFireSoundDue = false;
+				
+				if(loopFireTimer > loopFireTime) {
+					if(!audio.isPlaying && !audio.loop) {
+						audio.loop = true;
+						audio.clip = fireSound;
+						audio.Play();
+					}
+					
+					isFireSoundDue = false;
+				} else {
+					isFireSoundDue = true;
+				}
+				
+				soldier.animation.Play("StandingFire");
+				loopFireTimer += Time.deltaTime;
 			} else {
+				audio.loop = false;
 				isFireSoundDue = true;
+				noEmit();
+				hasFinishedFiring = true;
+				autoFireTimer = 0;
 			}
-			
-			soldier.animation.Play("StandingFire");
-			loopFireTimer += Time.deltaTime;
 		} else {		
 			if(!hasPlayedFinishedFireSound) {
 				audio.loop = false;
@@ -59,13 +78,19 @@ public class Weapon : MonoBehaviour {
 			if(!hasFinishedFiring) {
 				noEmit();
 				hasFinishedFiring = true;
+				autoFireTimer = 0;
 			}
 			
 			if(isFireSoundDue) {
 				isFireSoundDue = false;
-				audio.PlayOneShot(singleShotSound);
-				casingEject.particleEmitter.maxEmission = 1;
-				casingEject.particleEmitter.Emit();
+				if(ammo == 0) {
+					audio.PlayOneShot(GenericSounds.use.outOfAmmo);
+				} else {
+					audio.PlayOneShot(singleShotSound);
+					casingEject.particleEmitter.maxEmission = 1;
+					casingEject.particleEmitter.Emit();
+					ammo--;
+				}
 			}
 			
 			loopFireTimer = 0;

@@ -5,7 +5,7 @@ AudioImporter:
   format: 0
   quality: -.00499999989
   stream: 0
-  3D: 1
+  3D: 0
   forceToMono: 0
   useHardware: 1
   loopable: 0
