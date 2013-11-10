@@ -43,8 +43,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
-  m_LocalRotation: {x: .0228313152, y: -.920444608, z: -.008367314, w: .390116006}
-  m_LocalPosition: {x: .0678519011, y: .0803611279, z: .196697697}
+  m_LocalRotation: {x: .589849293, y: -.200226799, z: .204336792, w: .755138159}
+  m_LocalPosition: {x: -.0958340317, y: .144469112, z: .167786807}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 400002}
@@ -55,8 +55,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100002}
-  m_LocalRotation: {x: .0177707523, y: -.999805927, z: -.0032956216, w: -.00783822313}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -.474418491, y: .554116368, z: .608035266, w: .313329488}
+  m_LocalPosition: {x: 2.82099227e-05, y: 1.09643224e-07, z: -1.82815911e-05}
   m_LocalScale: {x: .999999225, y: 1, z: .999999225}
   m_Children: []
   m_Father: {fileID: 400000}
@@ -159,9 +159,9 @@ EllipsoidParticleEmitter:
   minSize: .0700000003
   maxSize: .0700000003
   minEnergy: .5
-  maxEnergy: 1.20000005
+  maxEnergy: .5
   minEmission: 1
-  maxEmission: 1
+  maxEmission: 10
   worldVelocity: {x: 0, y: 0, z: 0}
   localVelocity: {x: -2, y: 2.5, z: 0}
   rndVelocity: {x: .200000003, y: .200000003, z: .200000003}
@@ -171,7 +171,7 @@ EllipsoidParticleEmitter:
   rndAngularVelocity: 0
   rndRotation: 0
   Simulate in Worldspace?: 1
-  m_OneShot: 1
+  m_OneShot: 0
   m_Ellipsoid: {x: 0, y: 0, z: 0}
   m_MinEmitterRange: 0
 --- !u!26 &2600000
@@ -186,7 +186,7 @@ ParticleRenderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: b93a2744bb3aeae4daa947bf8e2ce98e, type: 2}
+  - {fileID: 2100000, guid: 3e6291c71f571437ea096450f38efdbc, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -197,7 +197,7 @@ ParticleRenderer:
   m_StretchParticles: 3
   m_LengthScale: 2.07999945
   m_VelocityScale: 0
-  m_MaxParticleSize: .25
+  m_MaxParticleSize: .5
   UV Animation:
     x Tile: 4
     y Tile: 4
@@ -214,7 +214,7 @@ ParticleRenderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 5b84011fe877a924ab4dd837cc1427c6, type: 2}
+  - {fileID: 2100000, guid: 3b857dc0cb6d44cf2bba480c29b927f3, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -222,7 +222,7 @@ ParticleRenderer:
   m_ScaleInLightmap: 1
   serializedVersion: 2
   m_CameraVelocityScale: 0
-  m_StretchParticles: 5
+  m_StretchParticles: 0
   m_LengthScale: .100000001
   m_VelocityScale: 0
   m_MaxParticleSize: .25
