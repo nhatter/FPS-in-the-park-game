@@ -1,0 +1,3205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.2.0" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7968400" minlon="-122.4054300" maxlat="37.7991000" maxlon="-122.4004300"/>
+ <node id="61692857" visible="true" version="2" changeset="660387" timestamp="2008-09-18T05:17:11Z" user="will l" uid="35195" lat="37.7977871" lon="-122.4007139">
+  <tag k="amenity" v="pub"/>
+  <tag k="created_by" v="Potlatch 0.10b"/>
+  <tag k="name" v="Old Ship Saloon"/>
+ </node>
+ <node id="65365812" visible="true" version="4" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7976295" lon="-122.4048578"/>
+ <node id="995938647" visible="true" version="1" changeset="6413209" timestamp="2010-11-20T11:12:22Z" user="Gregory Arenius" uid="116029" lat="37.7988969" lon="-122.4024594"/>
+ <node id="995938675" visible="true" version="1" changeset="6413209" timestamp="2010-11-20T11:12:24Z" user="Gregory Arenius" uid="116029" lat="37.7988405" lon="-122.4029197"/>
+ <node id="331666407" visible="true" version="6" changeset="15119563" timestamp="2013-02-22T07:20:17Z" user="wegavision" uid="564585" lat="37.7977838" lon="-122.4052952">
+  <tag k="addr:street" v="Kearny Street"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="italian"/>
+  <tag k="fax" v="(415) 989-9415"/>
+  <tag k="name" v="Tommaso's Ristorante Italiano"/>
+  <tag k="opening_hours" v="Tu-Sa 17:00-22:30; Su 16:00-21:30"/>
+  <tag k="phone" v="(415) 398-9696"/>
+  <tag k="website" v="http://tommasos.com/"/>
+ </node>
+ <node id="335439150" visible="true" version="1" changeset="825903" timestamp="2009-01-22T16:37:13Z" user="Sarah M" uid="74292" lat="37.7983483" lon="-122.4039763"/>
+ <node id="335439974" visible="true" version="1" changeset="825903" timestamp="2009-01-22T16:38:41Z" user="Sarah M" uid="74292" lat="37.7983618" lon="-122.4038132">
+  <tag k="addr:housenumber" v="1000"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+ </node>
+ <node id="335440420" visible="true" version="2" changeset="825903" timestamp="2009-01-22T16:39:36Z" user="Sarah M" uid="74292" lat="37.7983279" lon="-122.4041136">
+  <tag k="addr:housenumber" v="402"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="name" v="Golden Eagle Hotel"/>
+  <tag k="tourism" v="hotel"/>
+ </node>
+ <node id="335441625" visible="true" version="3" changeset="849388" timestamp="2009-01-28T15:55:55Z" user="Sarah M" uid="74292" lat="37.7972088" lon="-122.4037899">
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="name" v="Kartell"/>
+  <tag k="shop" v="furniture"/>
+ </node>
+ <node id="338683940" visible="true" version="1" changeset="849388" timestamp="2009-01-28T15:55:25Z" user="Sarah M" uid="74292" lat="37.7972427" lon="-122.4035753"/>
+ <node id="358803650" visible="true" version="1" changeset="783501" timestamp="2009-03-11T06:31:46Z" user="iandees" uid="4732" lat="37.7968731" lon="-122.4030265">
+  <tag k="ele" v="7"/>
+  <tag k="gnis:county_id" v="075"/>
+  <tag k="gnis:created" v="11/01/1994"/>
+  <tag k="gnis:feature_id" v="1655668"/>
+  <tag k="gnis:state_id" v="06"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Jackson Square Historic District"/>
+ </node>
+ <node id="359084771" visible="true" version="6" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7987210" lon="-122.4036343"/>
+ <node id="359089010" visible="true" version="2" changeset="789955" timestamp="2009-03-11T17:54:24Z" user="Sarah M" uid="74292" lat="37.7988209" lon="-122.4032238"/>
+ <node id="359089064" visible="true" version="2" changeset="789955" timestamp="2009-03-11T17:54:59Z" user="Sarah M" uid="74292" lat="37.7988276" lon="-122.4031380"/>
+ <node id="359089265" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:25Z" user="saikofish" uid="236172" lat="37.7988344" lon="-122.4032066">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="359089353" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:25Z" user="saikofish" uid="236172" lat="37.7989633" lon="-122.4032324">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="359089295" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:25Z" user="saikofish" uid="236172" lat="37.7989022" lon="-122.4032238">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="359089383" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:25Z" user="saikofish" uid="236172" lat="37.7990311" lon="-122.4032495">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="359089647" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:23Z" user="saikofish" uid="236172" lat="37.7990786" lon="-122.4031723">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="359089712" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:23Z" user="saikofish" uid="236172" lat="37.7990243" lon="-122.4031551">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="359089752" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:24Z" user="saikofish" uid="236172" lat="37.7989701" lon="-122.4031465">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="359089800" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:24Z" user="saikofish" uid="236172" lat="37.7989158" lon="-122.4031294">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="359089915" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:24Z" user="saikofish" uid="236172" lat="37.7988683" lon="-122.4031036">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="359089969" visible="true" version="2" changeset="10657894" timestamp="2012-02-11T21:46:25Z" user="saikofish" uid="236172" lat="37.7988209" lon="-122.4030950">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:street" v="Prescott Court"/>
+ </node>
+ <node id="366714498" visible="true" version="10" changeset="3607846" timestamp="2010-01-13T06:16:31Z" user="Speight" uid="24452" lat="37.7988402" lon="-122.4050769"/>
+ <node id="366714502" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:31Z" user="Speight" uid="24452" lat="37.7986774" lon="-122.4050511"/>
+ <node id="366714507" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:31Z" user="Speight" uid="24452" lat="37.7986503" lon="-122.4049052"/>
+ <node id="366714511" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:31Z" user="Speight" uid="24452" lat="37.7986706" lon="-122.4048451"/>
+ <node id="366714515" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:32Z" user="Speight" uid="24452" lat="37.7986706" lon="-122.4047593"/>
+ <node id="366714519" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:32Z" user="Speight" uid="24452" lat="37.7987317" lon="-122.4045876"/>
+ <node id="366714523" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:32Z" user="Speight" uid="24452" lat="37.7989012" lon="-122.4046134"/>
+ <node id="366714528" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:32Z" user="Speight" uid="24452" lat="37.7989215" lon="-122.4047850"/>
+ <node id="366714533" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:32Z" user="Speight" uid="24452" lat="37.7989012" lon="-122.4048451"/>
+ <node id="366714535" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:32Z" user="Speight" uid="24452" lat="37.7988537" lon="-122.4048365"/>
+ <node id="366714538" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:33Z" user="Speight" uid="24452" lat="37.7988537" lon="-122.4048709"/>
+ <node id="366714543" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:33Z" user="Speight" uid="24452" lat="37.7989012" lon="-122.4048794"/>
+ <node id="366714546" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:33Z" user="Speight" uid="24452" lat="37.7989012" lon="-122.4049309"/>
+ <node id="366714959" visible="true" version="3" changeset="3607846" timestamp="2010-01-13T06:16:32Z" user="Speight" uid="24452" lat="37.7986977" lon="-122.4048451"/>
+ <node id="366714960" visible="true" version="3" changeset="3607846" timestamp="2010-01-13T06:16:32Z" user="Speight" uid="24452" lat="37.7987045" lon="-122.4048108"/>
+ <node id="366714962" visible="true" version="3" changeset="3607846" timestamp="2010-01-13T06:16:32Z" user="Speight" uid="24452" lat="37.7986774" lon="-122.4048108"/>
+ <node id="368172552" visible="true" version="2" changeset="15117683" timestamp="2013-02-21T22:39:05Z" user="wegavision" uid="564585" lat="37.7981526" lon="-122.4012227">
+  <tag k="addr:state" v="CA"/>
+  <tag k="building" v="yes"/>
+  <tag k="ele" v="13"/>
+  <tag k="gnis:county_name" v="San Francisco"/>
+  <tag k="gnis:feature_id" v="1655467"/>
+  <tag k="gnis:import_uuid" v="57871b70-0100-4405-bb30-88b2e001a944"/>
+  <tag k="gnis:reviewed" v="no"/>
+  <tag k="name" v="Musto Plaza"/>
+  <tag k="source" v="USGS Geonames"/>
+ </node>
+ <node id="371007095" visible="true" version="3" changeset="389702" timestamp="2009-04-09T23:31:40Z" user="RaffyO" uid="81497" lat="37.7970564" lon="-122.4034628">
+  <tag k="addr:housenumber" v="850"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+  <tag k="amenity" v="pub"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="name" v="Cigar Bar"/>
+ </node>
+ <node id="371039595" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7980287" lon="-122.4015604"/>
+ <node id="371042716" visible="true" version="6" changeset="6413209" timestamp="2010-11-20T11:12:38Z" user="Gregory Arenius" uid="116029" lat="37.7986122" lon="-122.4016457"/>
+ <node id="371042717" visible="true" version="5" changeset="6413209" timestamp="2010-11-20T11:12:42Z" user="Gregory Arenius" uid="116029" lat="37.7986672" lon="-122.4012032"/>
+ <node id="371251238" visible="true" version="3" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7978001" lon="-122.4034385"/>
+ <node id="371251268" visible="true" version="1" changeset="389702" timestamp="2009-04-10T00:12:31Z" user="RaffyO" uid="81497" lat="37.7981890" lon="-122.4029307">
+  <tag k="addr:housenumber" v="373"/>
+  <tag k="addr:street" v="Broadway"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="cuisine" v="New American"/>
+  <tag k="name" v="Coi"/>
+ </node>
+ <node id="413381516" visible="true" version="1" changeset="1366283" timestamp="2009-05-31T10:06:14Z" user="Gregory Arenius" uid="116029" lat="37.7974482" lon="-122.4018994"/>
+ <node id="413381519" visible="true" version="1" changeset="1366283" timestamp="2009-05-31T10:06:14Z" user="Gregory Arenius" uid="116029" lat="37.7972176" lon="-122.4018479"/>
+ <node id="413381521" visible="true" version="1" changeset="1366283" timestamp="2009-05-31T10:06:14Z" user="Gregory Arenius" uid="116029" lat="37.7972719" lon="-122.4014102"/>
+ <node id="413381524" visible="true" version="1" changeset="1366283" timestamp="2009-05-31T10:06:14Z" user="Gregory Arenius" uid="116029" lat="37.7975025" lon="-122.4014617"/>
+ <node id="413382205" visible="true" version="3" changeset="1366283" timestamp="2009-05-31T10:07:29Z" user="Gregory Arenius" uid="116029" lat="37.7974414" lon="-122.4018908">
+  <tag k="amenity" v="atm"/>
+  <tag k="capacity" v="1"/>
+  <tag k="operator" v="Swipe"/>
+  <tag k="outside" v="yes"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="413385434" visible="true" version="1" changeset="1366283" timestamp="2009-05-31T10:08:45Z" user="Gregory Arenius" uid="116029" lat="37.7977263" lon="-122.4020024">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="operator" v="Muni"/>
+  <tag k="route_ref" v="10;82X"/>
+  <tag k="shelter" v="no"/>
+  <tag k="source" v="survey"/>
+  <tag k="ticker" v="no"/>
+ </node>
+ <node id="65305850" visible="true" version="3" changeset="2102778" timestamp="2009-08-10T21:55:20Z" user="woodpeck_fixbot" uid="147510" lat="37.7985810" lon="-122.4039350"/>
+ <node id="65305839" visible="true" version="4" changeset="15117683" timestamp="2013-02-21T22:39:07Z" user="wegavision" uid="564585" lat="37.7970600" lon="-122.4036283"/>
+ <node id="65306543" visible="true" version="11" changeset="15117683" timestamp="2013-02-21T22:39:07Z" user="wegavision" uid="564585" lat="37.7981138" lon="-122.4046913"/>
+ <node id="65307046" visible="true" version="3" changeset="3607846" timestamp="2010-01-13T05:52:11Z" user="Speight" uid="24452" lat="37.7987875" lon="-122.4031797"/>
+ <node id="65318416" visible="true" version="2" changeset="2102778" timestamp="2009-08-10T21:59:02Z" user="woodpeck_fixbot" uid="147510" lat="37.7969990" lon="-122.4040080"/>
+ <node id="65318425" visible="true" version="5" changeset="15119563" timestamp="2013-02-22T07:20:17Z" user="wegavision" uid="564585" lat="37.7972567" lon="-122.4040594"/>
+ <node id="65336491" visible="true" version="3" changeset="2102778" timestamp="2009-08-10T22:04:27Z" user="woodpeck_fixbot" uid="147510" lat="37.7983910" lon="-122.4010130"/>
+ <node id="65345140" visible="true" version="2" changeset="2102778" timestamp="2009-08-10T22:06:54Z" user="woodpeck_fixbot" uid="147510" lat="37.7984340" lon="-122.4049720"/>
+ <node id="65346881" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:58:00Z" user="wegavision" uid="564585" lat="37.7982138" lon="-122.4015718"/>
+ <node id="65352120" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:58:00Z" user="wegavision" uid="564585" lat="37.7968756" lon="-122.4019098"/>
+ <node id="65366996" visible="true" version="2" changeset="2102778" timestamp="2009-08-10T22:11:58Z" user="woodpeck_fixbot" uid="147510" lat="37.7978550" lon="-122.4041040"/>
+ <node id="65372829" visible="true" version="5" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7971671" lon="-122.4047714"/>
+ <node id="612765339" visible="true" version="1" changeset="3607846" timestamp="2010-01-13T05:53:26Z" user="Speight" uid="24452" lat="37.7987515" lon="-122.4036102"/>
+ <node id="65362453" visible="true" version="3" changeset="3607846" timestamp="2010-01-13T05:54:27Z" user="Speight" uid="24452" lat="37.7988437" lon="-122.4017394"/>
+ <node id="65306541" visible="true" version="3" changeset="3607846" timestamp="2010-01-13T06:17:38Z" user="Speight" uid="24452" lat="37.7976579" lon="-122.4045973"/>
+ <node id="709871128" visible="true" version="1" changeset="4546557" timestamp="2010-04-28T05:03:50Z" user="stefanM" uid="277086" lat="37.7990615" lon="-122.4026968">
+  <tag k="amenity" v="parking"/>
+ </node>
+ <node id="1016080023" visible="true" version="1" changeset="6516180" timestamp="2010-12-02T16:00:59Z" user="Gregory Arenius" uid="116029" lat="37.7981369" lon="-122.4040437">
+  <tag k="bulb" v="no"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="operator" v="Muni"/>
+  <tag k="route_ref" v="10;12"/>
+  <tag k="shelter" v="yes"/>
+  <tag k="source" v="survey"/>
+  <tag k="ticker" v="no"/>
+ </node>
+ <node id="1016080053" visible="true" version="1" changeset="6516180" timestamp="2010-12-02T16:01:00Z" user="Gregory Arenius" uid="116029" lat="37.7984038" lon="-122.4019150">
+  <tag k="bench" v="yes"/>
+  <tag k="bulb" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="operator" v="Muni"/>
+  <tag k="route_ref" v="10;12"/>
+  <tag k="shelter" v="no"/>
+  <tag k="source" v="survey"/>
+  <tag k="ticker" v="no"/>
+ </node>
+ <node id="1016080060" visible="true" version="1" changeset="6516180" timestamp="2010-12-02T16:01:00Z" user="Gregory Arenius" uid="116029" lat="37.7985463" lon="-122.4023617">
+  <tag k="amenity" v="post_box"/>
+  <tag k="operator" v="USPS"/>
+  <tag k="quantity" v="2"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="413382688" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:13Z" user="Gregory Arenius" uid="116029" lat="37.7974346" lon="-122.4019080">
+  <tag k="amenity" v="post_box"/>
+  <tag k="operator" v="FedEx"/>
+  <tag k="quantity" v="1"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="371006741" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:16Z" user="Gregory Arenius" uid="116029" lat="37.7971378" lon="-122.4034641"/>
+ <node id="335440991" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:17Z" user="Gregory Arenius" uid="116029" lat="37.7980815" lon="-122.4041727"/>
+ <node id="371006742" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:24Z" user="Gregory Arenius" uid="116029" lat="37.7971552" lon="-122.4033262"/>
+ <node id="335440992" visible="true" version="3" changeset="15117133" timestamp="2013-02-21T21:38:52Z" user="wegavision" uid="564585" lat="37.7978866" lon="-122.4041344"/>
+ <node id="65333976" visible="true" version="14" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7984312" lon="-122.4022267">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="turn_restrictions" v="no"/>
+ </node>
+ <node id="371006744" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:26Z" user="Gregory Arenius" uid="116029" lat="37.7970772" lon="-122.4034519"/>
+ <node id="371006743" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:30Z" user="Gregory Arenius" uid="116029" lat="37.7970946" lon="-122.4033139"/>
+ <node id="335440995" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:32Z" user="Gregory Arenius" uid="116029" lat="37.7977430" lon="-122.4038880"/>
+ <node id="371006621" visible="true" version="4" changeset="6516180" timestamp="2010-12-02T16:01:38Z" user="Gregory Arenius" uid="116029" lat="37.7972453" lon="-122.4035506"/>
+ <node id="413384299" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:39Z" user="Gregory Arenius" uid="116029" lat="37.7976178" lon="-122.4019767">
+  <tag k="amenity" v="post_box"/>
+  <tag k="operator" v="USPS"/>
+  <tag k="quantity" v="3"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="65333972" visible="true" version="12" changeset="6516180" timestamp="2010-12-02T16:01:42Z" user="Gregory Arenius" uid="116029" lat="37.7985809" lon="-122.4010527">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="turn_restrictions" v="no"/>
+ </node>
+ <node id="371006622" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:43Z" user="Gregory Arenius" uid="116029" lat="37.7972852" lon="-122.4032457"/>
+ <node id="371006624" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:47Z" user="Gregory Arenius" uid="116029" lat="37.7970149" lon="-122.4035023"/>
+ <node id="335440990" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:48Z" user="Gregory Arenius" uid="116029" lat="37.7980515" lon="-122.4044179"/>
+ <node id="371006623" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:50Z" user="Gregory Arenius" uid="116029" lat="37.7970548" lon="-122.4031974"/>
+ <node id="335440994" visible="true" version="3" changeset="15117133" timestamp="2013-02-21T21:38:52Z" user="wegavision" uid="564585" lat="37.7979126" lon="-122.4039212"/>
+ <node id="65305848" visible="true" version="11" changeset="15117683" timestamp="2013-02-21T22:39:07Z" user="wegavision" uid="564585" lat="37.7982142" lon="-122.4038645">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="371041217" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:07Z" user="saikofish" uid="236172" lat="37.7977676" lon="-122.4005946"/>
+ <node id="371041218" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:08Z" user="saikofish" uid="236172" lat="37.7979189" lon="-122.4006228"/>
+ <node id="371041219" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:08Z" user="saikofish" uid="236172" lat="37.7978981" lon="-122.4008020"/>
+ <node id="371041220" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:08Z" user="saikofish" uid="236172" lat="37.7977468" lon="-122.4007739"/>
+ <node id="366736110" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:15Z" user="Gregory Arenius" uid="116029" lat="37.7981690" lon="-122.4051386"/>
+ <node id="366736113" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:25Z" user="Gregory Arenius" uid="116029" lat="37.7981894" lon="-122.4049572"/>
+ <node id="366736114" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:30Z" user="Gregory Arenius" uid="116029" lat="37.7983354" lon="-122.4049836"/>
+ <node id="366736116" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:32Z" user="Gregory Arenius" uid="116029" lat="37.7983150" lon="-122.4051650"/>
+ <node id="371005244" visible="true" version="2" changeset="5343349" timestamp="2010-07-29T02:15:03Z" user="rabbitface" uid="321578" lat="37.7985613" lon="-122.4049467"/>
+ <node id="371005247" visible="true" version="2" changeset="5343349" timestamp="2010-07-29T02:15:03Z" user="rabbitface" uid="321578" lat="37.7984543" lon="-122.4049400"/>
+ <node id="371005249" visible="true" version="2" changeset="5343349" timestamp="2010-07-29T02:15:03Z" user="rabbitface" uid="321578" lat="37.7984670" lon="-122.4048394"/>
+ <node id="371005251" visible="true" version="2" changeset="5343349" timestamp="2010-07-29T02:15:03Z" user="rabbitface" uid="321578" lat="37.7985804" lon="-122.4048139"/>
+ <node id="837099805" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:17Z" user="Gregory Arenius" uid="116029" lat="37.7983717" lon="-122.4051860"/>
+ <node id="837099806" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:25Z" user="Gregory Arenius" uid="116029" lat="37.7981540" lon="-122.4051472"/>
+ <node id="335440997" visible="true" version="3" changeset="6516180" timestamp="2010-12-02T16:01:36Z" user="Gregory Arenius" uid="116029" lat="37.7976869" lon="-122.4043464"/>
+ <node id="837099801" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:40Z" user="Gregory Arenius" uid="116029" lat="37.7981242" lon="-122.4054148"/>
+ <node id="837099812" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:40Z" user="Gregory Arenius" uid="116029" lat="37.7980281" lon="-122.4046491"/>
+ <node id="837099815" visible="true" version="3" changeset="15117683" timestamp="2013-02-21T22:39:08Z" user="wegavision" uid="564585" lat="37.7980563" lon="-122.4044275"/>
+ <node id="837099810" visible="true" version="4" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7976502" lon="-122.4045720"/>
+ <node id="665607798" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:29Z" user="Gregory Arenius" uid="116029" lat="37.7984555" lon="-122.4029469"/>
+ <node id="665607791" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:34Z" user="Gregory Arenius" uid="116029" lat="37.7987862" lon="-122.4030303"/>
+ <node id="371042026" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:19:33Z" user="Gregory Arenius" uid="116029" lat="37.7990817" lon="-122.4022717"/>
+ <node id="371039661" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7977063" lon="-122.4010018"/>
+ <node id="371041948" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:19:46Z" user="Gregory Arenius" uid="116029" lat="37.7989271" lon="-122.4022348"/>
+ <node id="371041895" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:20:06Z" user="Gregory Arenius" uid="116029" lat="37.7988018" lon="-122.4019676"/>
+ <node id="665607800" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:33Z" user="Gregory Arenius" uid="116029" lat="37.7984916" lon="-122.4032432"/>
+ <node id="665607793" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:40Z" user="Gregory Arenius" uid="116029" lat="37.7987087" lon="-122.4029696"/>
+ <node id="371041585" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:10Z" user="saikofish" uid="236172" lat="37.7985011" lon="-122.4007705"/>
+ <node id="371041950" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:20:41Z" user="Gregory Arenius" uid="116029" lat="37.7988320" lon="-122.4017623"/>
+ <node id="371039729" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7980006" lon="-122.4017865"/>
+ <node id="665607795" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:35Z" user="Gregory Arenius" uid="116029" lat="37.7986750" lon="-122.4030087"/>
+ <node id="371041892" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:21:31Z" user="Gregory Arenius" uid="116029" lat="37.7987669" lon="-122.4022043"/>
+ <node id="371039731" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7982580" lon="-122.4011117"/>
+ <node id="665607790" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:31Z" user="Gregory Arenius" uid="116029" lat="37.7987550" lon="-122.4032738"/>
+ <node id="334986963" visible="true" version="5" changeset="6413209" timestamp="2010-11-20T11:12:42Z" user="Gregory Arenius" uid="116029" lat="37.7988447" lon="-122.4029196"/>
+ <node id="331669522" visible="true" version="6" changeset="11495263" timestamp="2012-05-04T07:44:14Z" user="Gregory Arenius" uid="116029" lat="37.7983835" lon="-122.4035243"/>
+ <node id="665607797" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:38Z" user="Gregory Arenius" uid="116029" lat="37.7985369" lon="-122.4029637"/>
+ <node id="371041299" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:08Z" user="saikofish" uid="236172" lat="37.7981184" lon="-122.4008511"/>
+ <node id="371041894" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:22:11Z" user="Gregory Arenius" uid="116029" lat="37.7985886" lon="-122.4019173"/>
+ <node id="371043138" visible="true" version="4" changeset="6413209" timestamp="2010-11-20T11:12:28Z" user="Gregory Arenius" uid="116029" lat="37.7984601" lon="-122.4028451"/>
+ <node id="665607792" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:36Z" user="Gregory Arenius" uid="116029" lat="37.7987031" lon="-122.4030133"/>
+ <node id="371041584" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7984743" lon="-122.4007647"/>
+ <node id="665607799" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:32Z" user="Gregory Arenius" uid="116029" lat="37.7984194" lon="-122.4032284"/>
+ <node id="371042027" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:22:30Z" user="Gregory Arenius" uid="116029" lat="37.7989360" lon="-122.4022406"/>
+ <node id="331669189" visible="true" version="8" changeset="11495263" timestamp="2012-05-04T07:44:14Z" user="Gregory Arenius" uid="116029" lat="37.7988431" lon="-122.4029244"/>
+ <node id="371041949" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:22:36Z" user="Gregory Arenius" uid="116029" lat="37.7987712" lon="-122.4022001"/>
+ <node id="371041572" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:08Z" user="saikofish" uid="236172" lat="37.7982082" lon="-122.4008589"/>
+ <node id="371039728" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7981735" lon="-122.4017910"/>
+ <node id="665607794" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:32Z" user="Gregory Arenius" uid="116029" lat="37.7986808" lon="-122.4029639"/>
+ <node id="371041579" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7985541" lon="-122.4004783"/>
+ <node id="371043140" visible="true" version="4" changeset="6413209" timestamp="2010-11-20T11:12:33Z" user="Gregory Arenius" uid="116029" lat="37.7985165" lon="-122.4023848"/>
+ <node id="665607801" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:36Z" user="Gregory Arenius" uid="116029" lat="37.7984945" lon="-122.4032203"/>
+ <node id="371042029" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:23:01Z" user="Gregory Arenius" uid="116029" lat="37.7989927" lon="-122.4018155"/>
+ <node id="371041951" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:23:11Z" user="Gregory Arenius" uid="116029" lat="37.7989879" lon="-122.4017970"/>
+ <node id="371039730" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7980887" lon="-122.4010780"/>
+ <node id="665607796" visible="true" version="3" changeset="6413209" timestamp="2010-11-20T11:12:36Z" user="Gregory Arenius" uid="116029" lat="37.7985348" lon="-122.4029799"/>
+ <node id="334986964" visible="true" version="5" changeset="6413209" timestamp="2010-11-20T11:12:29Z" user="Gregory Arenius" uid="116029" lat="37.7989016" lon="-122.4024613"/>
+ <node id="371041893" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:23:58Z" user="Gregory Arenius" uid="116029" lat="37.7985537" lon="-122.4021540"/>
+ <node id="1617289726" visible="true" version="1" changeset="10581057" timestamp="2012-02-04T03:22:41Z" user="saikofish" uid="236172" lat="37.7969354" lon="-122.4005284">
+  <tag k="addr:housenumber" v="244"/>
+  <tag k="building" v="yes"/>
+ </node>
+ <node id="1496348032" visible="true" version="2" changeset="10582043" timestamp="2012-02-04T08:52:25Z" user="saikofish" uid="236172" lat="37.7968642" lon="-122.4043109"/>
+ <node id="1496348038" visible="true" version="2" changeset="10582043" timestamp="2012-02-04T08:52:25Z" user="saikofish" uid="236172" lat="37.7969012" lon="-122.4043184"/>
+ <node id="1496348039" visible="true" version="2" changeset="10582043" timestamp="2012-02-04T08:52:25Z" user="saikofish" uid="236172" lat="37.7968919" lon="-122.4041166"/>
+ <node id="1496348043" visible="true" version="2" changeset="10582043" timestamp="2012-02-04T08:52:25Z" user="saikofish" uid="236172" lat="37.7968567" lon="-122.4046534"/>
+ <node id="1617478629" visible="true" version="1" changeset="10582205" timestamp="2012-02-04T09:19:53Z" user="saikofish" uid="236172" lat="37.7979228" lon="-122.4013674"/>
+ <node id="1617478631" visible="true" version="1" changeset="10582205" timestamp="2012-02-04T09:19:53Z" user="saikofish" uid="236172" lat="37.7979274" lon="-122.4013300"/>
+ <node id="371039598" visible="true" version="3" changeset="10582205" timestamp="2012-02-04T09:20:05Z" user="saikofish" uid="236172" lat="37.7979451" lon="-122.4013719"/>
+ <node id="371039599" visible="true" version="3" changeset="10582205" timestamp="2012-02-04T09:20:05Z" user="saikofish" uid="236172" lat="37.7977474" lon="-122.4012941"/>
+ <node id="371039601" visible="true" version="3" changeset="10582205" timestamp="2012-02-04T09:20:05Z" user="saikofish" uid="236172" lat="37.7977819" lon="-122.4010168"/>
+ <node id="371039658" visible="true" version="3" changeset="10582205" timestamp="2012-02-04T09:20:05Z" user="saikofish" uid="236172" lat="37.7977439" lon="-122.4013220"/>
+ <node id="371039597" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7979242" lon="-122.4015396"/>
+ <node id="371041300" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:08Z" user="saikofish" uid="236172" lat="37.7980113" lon="-122.4008297"/>
+ <node id="371041571" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:08Z" user="saikofish" uid="236172" lat="37.7984812" lon="-122.4009178"/>
+ <node id="371041573" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7982193" lon="-122.4007762"/>
+ <node id="371041574" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7981430" lon="-122.4007598"/>
+ <node id="371041576" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7981792" lon="-122.4004907"/>
+ <node id="371041577" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7982469" lon="-122.4005053"/>
+ <node id="371041580" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7985463" lon="-122.4005361"/>
+ <node id="371041581" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7985062" lon="-122.4005275"/>
+ <node id="371041583" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7984963" lon="-122.4006006"/>
+ <node id="371041696" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:10Z" user="saikofish" uid="236172" lat="37.7985566" lon="-122.4004629"/>
+ <node id="65374820" visible="true" version="4" changeset="6741887" timestamp="2010-12-23T02:26:39Z" user="StellanL" uid="28775" lat="37.7969028" lon="-122.4052959"/>
+ <node id="1206893698" visible="true" version="1" changeset="7591739" timestamp="2011-03-18T02:54:00Z" user="balrog-kun" uid="20587" lat="37.7981246" lon="-122.4038969">
+  <tag k="access" v="private"/>
+  <tag k="amenity" v="post_box"/>
+  <tag k="note" v="Relay"/>
+  <tag k="operator" v="USPS"/>
+  <tag k="quantity" v="2"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="1206893702" visible="true" version="1" changeset="7591739" timestamp="2011-03-18T02:54:00Z" user="balrog-kun" uid="20587" lat="37.7981421" lon="-122.4038983">
+  <tag k="amenity" v="post_box"/>
+  <tag k="operator" v="USPS"/>
+  <tag k="quantity" v="1"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="1206893706" visible="true" version="1" changeset="7591739" timestamp="2011-03-18T02:54:00Z" user="balrog-kun" uid="20587" lat="37.7972267" lon="-122.4037177">
+  <tag k="amenity" v="post_box"/>
+  <tag k="operator" v="USPS"/>
+  <tag k="quantity" v="4"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="1206893708" visible="true" version="1" changeset="7591739" timestamp="2011-03-18T02:54:01Z" user="balrog-kun" uid="20587" lat="37.7972092" lon="-122.4037162">
+  <tag k="access" v="private"/>
+  <tag k="amenity" v="post_box"/>
+  <tag k="note" v="Relay"/>
+  <tag k="operator" v="USPS"/>
+  <tag k="quantity" v="1"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="1206893704" visible="true" version="2" changeset="15117683" timestamp="2013-02-21T22:39:05Z" user="wegavision" uid="564585" lat="37.7981103" lon="-122.4036493">
+  <tag k="amenity" v="nightclub"/>
+  <tag k="name" v="DejaVu Centerfolds"/>
+  <tag k="opening_hours" v="15:00-2:00"/>
+  <tag k="phone" v="415-834-0662"/>
+  <tag k="website" v="http://centerfoldssf.com/"/>
+ </node>
+ <node id="65336489" visible="true" version="7" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7976573" lon="-122.4008756"/>
+ <node id="65349371" visible="true" version="7" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7974030" lon="-122.4028966"/>
+ <node id="65372831" visible="true" version="7" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7970972" lon="-122.4053270"/>
+ <node id="65359317" visible="true" version="8" changeset="15119912" timestamp="2013-02-22T07:58:00Z" user="wegavision" uid="564585" lat="37.7975109" lon="-122.4020392">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1355379951" visible="true" version="3" changeset="15117683" timestamp="2013-02-21T22:39:05Z" user="wegavision" uid="564585" lat="37.7974414" lon="-122.4035292">
+  <tag k="addr:postcode" v="94133"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="italian"/>
+  <tag k="email" v="info@Cotognasf.com"/>
+  <tag k="name" v="Cotogna"/>
+  <tag k="opening_hours" v="Mo-Th 11:30-23:00; Fr-Sa 11:30-0:00; Su 17:00-21:00"/>
+  <tag k="phone" v="415.775.8508"/>
+  <tag k="website" v="http://www.cotognasf.com/"/>
+ </node>
+ <node id="366718856" visible="true" version="2" changeset="9781301" timestamp="2011-11-09T13:24:12Z" user="StellanL" uid="28775" lat="37.7990950" lon="-122.4041620"/>
+ <node id="366718857" visible="true" version="2" changeset="9781301" timestamp="2011-11-09T13:24:12Z" user="StellanL" uid="28775" lat="37.7990350" lon="-122.4046268"/>
+ <node id="65346882" visible="true" version="5" changeset="15119912" timestamp="2013-02-22T07:58:00Z" user="wegavision" uid="564585" lat="37.7981388" lon="-122.4021671"/>
+ <node id="1648150909" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:27Z" user="gaku" uid="19532" lat="37.7968538" lon="-122.4054166"/>
+ <node id="331669190" visible="true" version="8" changeset="11495263" timestamp="2012-05-04T07:44:14Z" user="Gregory Arenius" uid="116029" lat="37.7984669" lon="-122.4028498"/>
+ <node id="331669524" visible="true" version="6" changeset="11495263" timestamp="2012-05-04T07:44:14Z" user="Gregory Arenius" uid="116029" lat="37.7987597" lon="-122.4035989"/>
+ <node id="1776942103" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:17:22Z" user="trueinsider" uid="696368" lat="37.7982163" lon="-122.4048625"/>
+ <node id="1776942107" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:17:22Z" user="trueinsider" uid="696368" lat="37.7983674" lon="-122.4049824"/>
+ <node id="1776942109" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:17:23Z" user="trueinsider" uid="696368" lat="37.7982045" lon="-122.4049453"/>
+ <node id="1776942110" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:17:23Z" user="trueinsider" uid="696368" lat="37.7983792" lon="-122.4048996"/>
+ <node id="1776942609" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7985547" lon="-122.4046974"/>
+ <node id="1776942610" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7985660" lon="-122.4046268"/>
+ <node id="1776942611" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7983870" lon="-122.4047294"/>
+ <node id="1776942613" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7983887" lon="-122.4045815"/>
+ <node id="1776942615" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7982611" lon="-122.4045554"/>
+ <node id="1776942616" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7985348" lon="-122.4046923"/>
+ <node id="1776942617" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7983213" lon="-122.4045708"/>
+ <node id="1776942618" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7983046" lon="-122.4047083"/>
+ <node id="1776942619" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7982375" lon="-122.4047029"/>
+ <node id="1776942620" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7983196" lon="-122.4045814"/>
+ <node id="1776942621" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7983860" lon="-122.4045984"/>
+ <node id="1776942622" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:00Z" user="trueinsider" uid="696368" lat="37.7983028" lon="-122.4047196"/>
+ <node id="1776942631" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:01Z" user="trueinsider" uid="696368" lat="37.7985319" lon="-122.4047102"/>
+ <node id="1776942633" visible="true" version="1" changeset="11804643" timestamp="2012-06-05T10:19:01Z" user="trueinsider" uid="696368" lat="37.7983956" lon="-122.4046753"/>
+ <node id="1786968586" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:43:16Z" user="Vatis" uid="562163" lat="37.7982277" lon="-122.4047843"/>
+ <node id="1786968589" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:43:17Z" user="Vatis" uid="562163" lat="37.7983326" lon="-122.4048112"/>
+ <node id="1786968591" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:43:17Z" user="Vatis" uid="562163" lat="37.7983258" lon="-122.4048869"/>
+ <node id="1786968775" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:43:42Z" user="Vatis" uid="562163" lat="37.7983559" lon="-122.4047629"/>
+ <node id="1786968776" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:43:42Z" user="Vatis" uid="562163" lat="37.7983602" lon="-122.4047327"/>
+ <node id="1786968777" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:43:42Z" user="Vatis" uid="562163" lat="37.7983634" lon="-122.4047830"/>
+ <node id="1786968778" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:43:42Z" user="Vatis" uid="562163" lat="37.7983566" lon="-122.4047811"/>
+ <node id="1786968779" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:43:42Z" user="Vatis" uid="562163" lat="37.7983660" lon="-122.4047649"/>
+ <node id="1786968780" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:43:42Z" user="Vatis" uid="562163" lat="37.7983528" lon="-122.4048118"/>
+ <node id="1786969074" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:21Z" user="Vatis" uid="562163" lat="37.7982558" lon="-122.4045416"/>
+ <node id="1786969079" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:21Z" user="Vatis" uid="562163" lat="37.7982671" lon="-122.4044713"/>
+ <node id="1786969094" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:21Z" user="Vatis" uid="562163" lat="37.7982584" lon="-122.4045208"/>
+ <node id="1786969095" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:22Z" user="Vatis" uid="562163" lat="37.7982643" lon="-122.4045503"/>
+ <node id="1786969096" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:22Z" user="Vatis" uid="562163" lat="37.7984222" lon="-122.4045067"/>
+ <node id="1786969097" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:22Z" user="Vatis" uid="562163" lat="37.7982775" lon="-122.4044705"/>
+ <node id="1786969098" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:22Z" user="Vatis" uid="562163" lat="37.7984090" lon="-122.4045867"/>
+ <node id="1786969100" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:22Z" user="Vatis" uid="562163" lat="37.7982706" lon="-122.4045161"/>
+ <node id="1786969101" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:22Z" user="Vatis" uid="562163" lat="37.7982627" lon="-122.4044980"/>
+ <node id="1786969102" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:44:22Z" user="Vatis" uid="562163" lat="37.7982722" lon="-122.4045034"/>
+ <node id="1786969804" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:47:01Z" user="Vatis" uid="562163" lat="37.7985320" lon="-122.4042017"/>
+ <node id="1786969805" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:47:01Z" user="Vatis" uid="562163" lat="37.7983120" lon="-122.4041520"/>
+ <node id="1786969806" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:47:01Z" user="Vatis" uid="562163" lat="37.7985960" lon="-122.4042687"/>
+ <node id="1786969807" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:47:01Z" user="Vatis" uid="562163" lat="37.7985975" lon="-122.4042506"/>
+ <node id="1786969808" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:47:01Z" user="Vatis" uid="562163" lat="37.7986214" lon="-122.4042761"/>
+ <node id="1786969809" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:47:01Z" user="Vatis" uid="562163" lat="37.7985479" lon="-122.4042413"/>
+ <node id="1786969810" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:47:01Z" user="Vatis" uid="562163" lat="37.7982833" lon="-122.4043740"/>
+ <node id="1786969395" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:24Z" user="Vatis" uid="562163" lat="37.7982796" lon="-122.4044330"/>
+ <node id="1786969396" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:24Z" user="Vatis" uid="562163" lat="37.7985949" lon="-122.4044551"/>
+ <node id="1786969397" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:24Z" user="Vatis" uid="562163" lat="37.7984165" lon="-122.4044103"/>
+ <node id="1786969398" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:24Z" user="Vatis" uid="562163" lat="37.7985880" lon="-122.4045108"/>
+ <node id="1786969399" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:24Z" user="Vatis" uid="562163" lat="37.7982703" lon="-122.4044384"/>
+ <node id="1786969400" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:24Z" user="Vatis" uid="562163" lat="37.7983861" lon="-122.4044048"/>
+ <node id="1786969401" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:24Z" user="Vatis" uid="562163" lat="37.7982893" lon="-122.4043848"/>
+ <node id="1786969402" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:24Z" user="Vatis" uid="562163" lat="37.7982824" lon="-122.4044217"/>
+ <node id="1786969403" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:25Z" user="Vatis" uid="562163" lat="37.7984132" lon="-122.4044243"/>
+ <node id="1786969404" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:25Z" user="Vatis" uid="562163" lat="37.7983856" lon="-122.4044182"/>
+ <node id="1786969405" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:25Z" user="Vatis" uid="562163" lat="37.7985578" lon="-122.4045403"/>
+ <node id="1786969406" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:25Z" user="Vatis" uid="562163" lat="37.7982669" lon="-122.4044605"/>
+ <node id="1786969407" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:25Z" user="Vatis" uid="562163" lat="37.7982734" lon="-122.4044170"/>
+ <node id="1786969408" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:25Z" user="Vatis" uid="562163" lat="37.7982756" lon="-122.4043949"/>
+ <node id="1786969409" visible="true" version="1" changeset="11891783" timestamp="2012-06-14T06:45:25Z" user="Vatis" uid="562163" lat="37.7985643" lon="-122.4045055"/>
+ <node id="2166014679" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:47Z" user="wegavision" uid="564585" lat="37.7979793" lon="-122.4045323">
+  <tag k="amenity" v="theatre"/>
+  <tag k="email" v="info@broadwaystudios.com"/>
+  <tag k="name" v="Broadway Studios"/>
+  <tag k="phone" v="(415) 291-0333"/>
+  <tag k="website" v="http://www.broadwaystudios.com/"/>
+ </node>
+ <node id="2166014677" visible="true" version="2" changeset="15117683" timestamp="2013-02-21T22:39:05Z" user="wegavision" uid="564585" lat="37.7980410" lon="-122.4040492">
+  <tag k="amenity" v="bar"/>
+  <tag k="name" v="Atmosphere 3"/>
+  <tag k="phone" v="415.788.4623"/>
+  <tag k="website" v="http://www.a3atmosphere.com/"/>
+ </node>
+ <node id="2166014681" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7979450" lon="-122.4049333">
+  <tag k="amenity" v="bar"/>
+  <tag k="email" v="Payamarvin@gmail.com"/>
+  <tag k="name" v="Monroe San Francisco"/>
+  <tag k="phone" v="+1 415-772-9002"/>
+  <tag k="website" v="http://www.monroesf.com/"/>
+ </node>
+ <node id="2166014683" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7975921" lon="-122.4053056"/>
+ <node id="2166014684" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7976184" lon="-122.4048218"/>
+ <node id="2166014685" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7976247" lon="-122.4050498"/>
+ <node id="2166014686" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7976340" lon="-122.4049762"/>
+ <node id="2166014688" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7976444" lon="-122.4046176"/>
+ <node id="2166014689" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7976528" lon="-122.4048288"/>
+ <node id="2166014690" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7976765" lon="-122.4053228"/>
+ <node id="2166014691" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7977090" lon="-122.4050670"/>
+ <node id="2166014692" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7977471" lon="-122.4053372"/>
+ <node id="2166014693" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7977775" lon="-122.4050979"/>
+ <node id="2166014694" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7977796" lon="-122.4050813"/>
+ <node id="2166014695" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7977871" lon="-122.4050223"/>
+ <node id="2166014696" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7977890" lon="-122.4050077"/>
+ <node id="2166014697" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7977978" lon="-122.4049389"/>
+ <node id="2166014698" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7978074" lon="-122.4053495"/>
+ <node id="2166014699" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7978077" lon="-122.4048604"/>
+ <node id="2166014700" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7978148" lon="-122.4050280"/>
+ <node id="2166014701" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7978161" lon="-122.4048621"/>
+ <node id="2166014702" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7978254" lon="-122.4049445"/>
+ <node id="2166014703" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7978379" lon="-122.4051102"/>
+ <node id="2166014704" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7978420" lon="-122.4046579"/>
+ <node id="2166014707" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7978944" lon="-122.4041256"/>
+ <node id="2166014710" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7979194" lon="-122.4039293"/>
+ <node id="2166014711" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7979347" lon="-122.4053754"/>
+ <node id="2166014712" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7979651" lon="-122.4051361"/>
+ <node id="2166014713" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7979747" lon="-122.4050605"/>
+ <node id="2166014715" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7979853" lon="-122.4049771"/>
+ <node id="2166014717" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7979953" lon="-122.4048986"/>
+ <node id="2166014719" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7980213" lon="-122.4046944"/>
+ <node id="2166014721" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7980897" lon="-122.4041655"/>
+ <node id="2166014722" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:48Z" user="wegavision" uid="564585" lat="37.7981147" lon="-122.4039692"/>
+ <node id="2166132622" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7973849" lon="-122.4036008"/>
+ <node id="2166132625" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7974450" lon="-122.4031289"/>
+ <node id="2166132627" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7974681" lon="-122.4029479"/>
+ <node id="2166132629" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7974767" lon="-122.4028801"/>
+ <node id="2166132631" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7974939" lon="-122.4027447"/>
+ <node id="2166132633" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7975053" lon="-122.4026557"/>
+ <node id="2166132635" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7975228" lon="-122.4025183"/>
+ <node id="2166132637" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7975360" lon="-122.4024143"/>
+ <node id="2166132639" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7975651" lon="-122.4021861"/>
+ <node id="2166132645" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7975775" lon="-122.4036401"/>
+ <node id="2166132647" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7976025" lon="-122.4034440"/>
+ <node id="2166132649" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7976300" lon="-122.4024335"/>
+ <node id="2166132651" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7976376" lon="-122.4031682"/>
+ <node id="2166132653" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7976485" lon="-122.4034534"/>
+ <node id="2166132655" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:00Z" user="wegavision" uid="564585" lat="37.7976591" lon="-122.4022052"/>
+ <node id="2166132657" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7976631" lon="-122.4027792"/>
+ <node id="2166132659" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7976744" lon="-122.4026902"/>
+ <node id="2166132661" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7976762" lon="-122.4032358"/>
+ <node id="2166132663" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7976971" lon="-122.4026949"/>
+ <node id="2166132665" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7976973" lon="-122.4036645"/>
+ <node id="2166132667" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977146" lon="-122.4025574"/>
+ <node id="2166132669" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977231" lon="-122.4034617"/>
+ <node id="2166132671" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977233" lon="-122.4032454"/>
+ <node id="2166132673" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977278" lon="-122.4024534"/>
+ <node id="2166132674" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977279" lon="-122.4032099"/>
+ <node id="2166132676" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977287" lon="-122.4034181"/>
+ <node id="2166132678" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977426" lon="-122.4029343"/>
+ <node id="2166132680" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977569" lon="-122.4022252"/>
+ <node id="2166132682" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977712" lon="-122.4027100"/>
+ <node id="2166132684" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7977850" lon="-122.4034296"/>
+ <node id="2166132686" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7978108" lon="-122.4032268"/>
+ <node id="2166132688" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7978155" lon="-122.4032512"/>
+ <node id="2166132691" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7978213" lon="-122.4032057"/>
+ <node id="2166132693" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7978444" lon="-122.4030246"/>
+ <node id="2166132694" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7978493" lon="-122.4034191"/>
+ <node id="2166132696" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7978693" lon="-122.4032621"/>
+ <node id="2166132698" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7978753" lon="-122.4032149"/>
+ <node id="2166132700" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7978982" lon="-122.4030356"/>
+ <node id="2166132702" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7979298" lon="-122.4032260"/>
+ <node id="2166132704" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7979319" lon="-122.4032264"/>
+ <node id="2166132714" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7979352" lon="-122.4037126"/>
+ <node id="2166132715" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7979419" lon="-122.4031482"/>
+ <node id="2166132717" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7979437" lon="-122.4027452"/>
+ <node id="2166132719" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7979510" lon="-122.4026880"/>
+ <node id="2166132721" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7979610" lon="-122.4035102"/>
+ <node id="2166132723" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7979884" lon="-122.4032526"/>
+ <node id="2166132726" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7979902" lon="-122.4032383"/>
+ <node id="2166132729" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980002" lon="-122.4031601"/>
+ <node id="2166132732" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980035" lon="-122.4022755"/>
+ <node id="2166132733" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980131" lon="-122.4030591"/>
+ <node id="2166132736" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980221" lon="-122.4034544"/>
+ <node id="2166132739" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980298" lon="-122.4034559"/>
+ <node id="2166132742" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980398" lon="-122.4033156"/>
+ <node id="2166132745" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980463" lon="-122.4032644"/>
+ <node id="2166132748" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980475" lon="-122.4033172"/>
+ <node id="2166132751" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980556" lon="-122.4031914"/>
+ <node id="2166132754" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980567" lon="-122.4027095"/>
+ <node id="2166132757" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980693" lon="-122.4027708"/>
+ <node id="2166132759" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980710" lon="-122.4030709"/>
+ <node id="2166132762" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980718" lon="-122.4025907"/>
+ <node id="2166132765" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980917" lon="-122.4025947"/>
+ <node id="2166132768" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7980934" lon="-122.4028474"/>
+ <node id="2166132771" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7981023" lon="-122.4027775"/>
+ <node id="2166132774" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7981092" lon="-122.4022971"/>
+ <node id="2166132776" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7981308" lon="-122.4026027"/>
+ <node id="2166132780" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7981381" lon="-122.4037540"/>
+ <node id="2166132782" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:01Z" user="wegavision" uid="564585" lat="37.7981639" lon="-122.4035516"/>
+ <node id="2166132786" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7981682" lon="-122.4023091"/>
+ <node id="2166132789" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7981724" lon="-122.4034850"/>
+ <node id="2166132792" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7981900" lon="-122.4033463"/>
+ <node id="2166132804" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7982059" lon="-122.4032220"/>
+ <node id="2166132806" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7982212" lon="-122.4031015"/>
+ <node id="2166132808" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7982298" lon="-122.4030337"/>
+ <node id="2166132810" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7982495" lon="-122.4028792"/>
+ <node id="2166132813" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7982584" lon="-122.4028094"/>
+ <node id="2166132816" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7982808" lon="-122.4026333"/>
+ <node id="2166132819" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7983182" lon="-122.4023397"/>
+ <node id="2166132822" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585" lat="37.7974582" lon="-122.4034024">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="email" v="info@quincerestaurant.com"/>
+  <tag k="fax" v="415.775.8501"/>
+  <tag k="name" v="Quince"/>
+  <tag k="phone" v="415.775.8500"/>
+ </node>
+ <node id="65296029" visible="true" version="11" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7982589" lon="-122.4035350"/>
+ <node id="65305845" visible="true" version="4" changeset="15117683" timestamp="2013-02-21T22:39:07Z" user="wegavision" uid="564585" lat="37.7978938" lon="-122.4037989"/>
+ <node id="65333983" visible="true" version="11" changeset="15117683" timestamp="2013-02-21T22:39:07Z" user="wegavision" uid="564585" lat="37.7983213" lon="-122.4030859"/>
+ <node id="2166542052" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:13Z" user="wegavision" uid="564585" lat="37.7971767" lon="-122.4052191"/>
+ <node id="2166542053" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:13Z" user="wegavision" uid="564585" lat="37.7971913" lon="-122.4051042"/>
+ <node id="2166542054" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:13Z" user="wegavision" uid="564585" lat="37.7972067" lon="-122.4049838"/>
+ <node id="2166542055" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:13Z" user="wegavision" uid="564585" lat="37.7972156" lon="-122.4049135"/>
+ <node id="2166542056" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:13Z" user="wegavision" uid="564585" lat="37.7972368" lon="-122.4047473"/>
+ <node id="2166542057" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:13Z" user="wegavision" uid="564585" lat="37.7972372" lon="-122.4047440"/>
+ <node id="2166542058" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:13Z" user="wegavision" uid="564585" lat="37.7972396" lon="-122.4041955"/>
+ <node id="2166542059" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7972648" lon="-122.4045279"/>
+ <node id="2166542060" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7972731" lon="-122.4044625"/>
+ <node id="2166542061" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7972799" lon="-122.4044096"/>
+ <node id="2166542062" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7972935" lon="-122.4052429"/>
+ <node id="2166542063" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7972977" lon="-122.4042695"/>
+ <node id="2166542064" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7973081" lon="-122.4051281"/>
+ <node id="2166542065" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7973559" lon="-122.4038135"/>
+ <node id="2166542066" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7973984" lon="-122.4052644"/>
+ <node id="2166542067" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7974131" lon="-122.4051495"/>
+ <node id="2166542068" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7974284" lon="-122.4050291"/>
+ <node id="2166542069" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7974904" lon="-122.4045366"/>
+ <node id="2166542070" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7974941" lon="-122.4045076"/>
+ <node id="2166542071" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7975043" lon="-122.4045097"/>
+ <node id="2166542072" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7975111" lon="-122.4044568"/>
+ <node id="2166542073" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7975289" lon="-122.4043167"/>
+ <node id="2166542074" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7975514" lon="-122.4045491"/>
+ <node id="2166542075" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7975554" lon="-122.4045178"/>
+ <node id="2166542076" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7975578" lon="-122.4052969"/>
+ <node id="2166542077" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7975878" lon="-122.4050616"/>
+ <node id="2166542078" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7975968" lon="-122.4049913"/>
+ <node id="2166542079" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7976180" lon="-122.4048251"/>
+ <node id="2166542080" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7976184" lon="-122.4048218"/>
+ <node id="2166542081" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7976459" lon="-122.4046057"/>
+ <node id="2166542082" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7976546" lon="-122.4045380"/>
+ <node id="2166542083" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7976592" lon="-122.4043433"/>
+ <node id="2166542084" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7977174" lon="-122.4038873"/>
+ <node id="2166542085" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585" lat="37.7973055" lon="-122.4042084">
+  <tag k="access" v="yes"/>
+  <tag k="amenity" v="parking_entrance"/>
+  <tag k="fee" v="yes"/>
+  <tag k="name" v="909 Montgomery Garage"/>
+  <tag k="parking" v="underground"/>
+ </node>
+ <node id="2144839392" visible="true" version="2" changeset="15119563" timestamp="2013-02-22T07:20:17Z" user="wegavision" uid="564585" lat="37.7972068" lon="-122.4051977">
+  <tag k="amenity" v="cafe"/>
+  <tag k="cuisine" v="coffee_shop"/>
+  <tag k="email" v="chefchris@thestationsf.com"/>
+  <tag k="name" v="The Station"/>
+  <tag k="opening_hours" v="Mo-Fr 07:30-18:00; Sa-Su 10:00-16:00"/>
+  <tag k="phone" v="+1 415-291-0690"/>
+  <tag k="source" v="survey"/>
+  <tag k="website" v="http://www.thestationsf.com/"/>
+  <tag k="wifi" v="free"/>
+ </node>
+ <node id="65305842" visible="true" version="7" changeset="15119563" timestamp="2013-02-22T07:20:17Z" user="wegavision" uid="564585" lat="37.7973047" lon="-122.4036784">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals:sound" v="yes"/>
+ </node>
+ <node id="65365814" visible="true" version="5" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7975638" lon="-122.4054117"/>
+ <node id="837099816" visible="true" version="5" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7976785" lon="-122.4043504"/>
+ <node id="2166577083" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7981120" lon="-122.4019697">
+  <tag k="name" v="Cadre-SF"/>
+  <tag k="shop" v="frame"/>
+  <tag k="website" v="http://www.cadre-sf.com/"/>
+ </node>
+ <node id="2166577086" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7975860" lon="-122.4019687"/>
+ <node id="2166577088" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7976181" lon="-122.4017103"/>
+ <node id="2166577089" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7979685" lon="-122.4020449"/>
+ <node id="2166577090" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7980126" lon="-122.4016897"/>
+ <node id="2166577091" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7980501" lon="-122.4020612"/>
+ <node id="2166577092" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7980822" lon="-122.4018028"/>
+ <node id="2166577093" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7981376" lon="-122.4020786"/>
+ <node id="2166577094" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7981619" lon="-122.4020573"/>
+ <node id="2166577095" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7981819" lon="-122.4017234"/>
+ <node id="2166577097" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7982229" lon="-122.4015665"/>
+ <node id="2166577098" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7982300" lon="-122.4013368"/>
+ <node id="2166577100" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7982492" lon="-122.4013612"/>
+ <node id="2166577101" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7982504" lon="-122.4011723"/>
+ <node id="2166577103" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7982533" lon="-122.4013621"/>
+ <node id="2166577105" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7982558" lon="-122.4013420"/>
+ <node id="2166577106" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:57Z" user="wegavision" uid="564585" lat="37.7982775" lon="-122.4011777"/>
+ <node id="2166577108" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585" lat="37.7982824" lon="-122.4011381"/>
+ <node id="2166577110" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585" lat="37.7982854" lon="-122.4013685"/>
+ <node id="2166577115" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585" lat="37.7983133" lon="-122.4011442"/>
+ <node id="2166577117" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585" lat="37.7983297" lon="-122.4020907"/>
+ <node id="2166577119" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585" lat="37.7983907" lon="-122.4015999"/>
+ <node id="2166577121" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585" lat="37.7984455" lon="-122.4011596"/>
+ <node id="2166577123" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585" lat="37.7977377" lon="-122.4010588">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Starbucks"/>
+  <tag k="website" v="starbucks.com‎"/>
+ </node>
+ <node id="709871143" visible="true" version="2" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7980160" lon="-122.4019871">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Henry's Hunan"/>
+  <tag k="opening_hours" v="Su-Th 11:30-21:00; Fr-Sa 11:30-21:30"/>
+  <tag k="phone" v="415-956-7727"/>
+  <tag k="website" v="www.henryshunanrestaurant.com"/>
+ </node>
+ <node id="371039659" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7976683" lon="-122.4013070"/>
+ <node id="371040828" visible="true" version="5" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7976463" lon="-122.4014842"/>
+ <node id="2443593161" visible="true" version="2" changeset="17680423" timestamp="2013-09-05T01:19:36Z" user="Stemby" uid="28559" lat="37.7969600" lon="-122.4021345">
+  <tag k="addr:floor" v="2"/>
+  <tag k="addr:housenumber" v="727"/>
+  <tag k="addr:street" v="Sansome Street"/>
+  <tag k="name" v="Humble Bundle"/>
+  <tag k="office" v="it"/>
+  <tag k="payment:bitcoin" v="yes"/>
+  <tag k="website" v="https://humblebundle.com/"/>
+ </node>
+ <node id="371041578" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:09Z" user="saikofish" uid="236172" lat="37.7982591" lon="-122.4004147"/>
+ <node id="65337383" visible="true" version="7" changeset="10582043" timestamp="2012-02-04T08:52:34Z" user="saikofish" uid="236172" lat="37.7963108" lon="-122.4044223">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="65333966" visible="true" version="9" changeset="2102778" timestamp="2009-08-10T22:03:53Z" user="woodpeck_fixbot" uid="147510" lat="37.7989535" lon="-122.3982182"/>
+ <node id="260194340" visible="true" version="5" changeset="3601168" timestamp="2010-01-12T07:38:31Z" user="Speight" uid="24452" lat="37.8038335" lon="-122.4021086"/>
+ <node id="258965618" visible="true" version="18" changeset="6516180" timestamp="2010-12-02T16:01:34Z" user="Gregory Arenius" uid="116029" lat="37.7991637" lon="-122.3977719">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="turn_restrictions" v="no"/>
+ </node>
+ <node id="1496348030" visible="true" version="2" changeset="10582043" timestamp="2012-02-04T08:52:25Z" user="saikofish" uid="236172" lat="37.7963691" lon="-122.4045073"/>
+ <node id="338683941" visible="true" version="1" changeset="849388" timestamp="2009-01-28T15:55:25Z" user="Sarah M" uid="74292" lat="37.7965035" lon="-122.4034208"/>
+ <node id="366718855" visible="true" version="2" changeset="9781301" timestamp="2011-11-09T13:24:12Z" user="StellanL" uid="28775" lat="37.7992426" lon="-122.4041935"/>
+ <node id="1617460503" visible="true" version="1" changeset="10582043" timestamp="2012-02-04T08:52:07Z" user="saikofish" uid="236172" lat="37.7967921" lon="-122.4040909"/>
+ <node id="335439972" visible="true" version="1" changeset="825903" timestamp="2009-01-22T16:38:41Z" user="Sarah M" uid="74292" lat="37.7991214" lon="-122.4039677">
+  <tag k="addr:housenumber" v="1090"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+ </node>
+ <node id="65299290" visible="true" version="9" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7994498" lon="-122.4018500"/>
+ <node id="65372839" visible="true" version="6" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7966673" lon="-122.4087436"/>
+ <node id="65327528" visible="true" version="6" changeset="15119563" timestamp="2013-02-22T07:20:17Z" user="wegavision" uid="564585" lat="37.7966026" lon="-122.4092574"/>
+ <node id="65308952" visible="true" version="5" changeset="16927685" timestamp="2013-07-12T16:13:59Z" user="dchiles" uid="153669" lat="37.7960831" lon="-122.4041206"/>
+ <node id="65362002" visible="true" version="7" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7966513" lon="-122.4088710"/>
+ <node id="1617460497" visible="true" version="1" changeset="10582043" timestamp="2012-02-04T08:52:07Z" user="saikofish" uid="236172" lat="37.7965648" lon="-122.4042715"/>
+ <node id="65328719" visible="true" version="6" changeset="15119563" timestamp="2013-02-22T07:20:17Z" user="wegavision" uid="564585" lat="37.7969082" lon="-122.4068292"/>
+ <node id="65312622" visible="true" version="5" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.8012670" lon="-122.4028044"/>
+ <node id="371041051" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:07Z" user="saikofish" uid="236172" lat="37.7982034" lon="-122.4003902"/>
+ <node id="65333959" visible="true" version="9" changeset="2102778" timestamp="2009-08-10T22:03:53Z" user="woodpeck_fixbot" uid="147510" lat="37.7990348" lon="-122.3980294"/>
+ <node id="65371299" visible="true" version="8" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7967064" lon="-122.4084330">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="612028665" visible="true" version="1" changeset="3601168" timestamp="2010-01-12T07:38:31Z" user="Speight" uid="24452" lat="37.8038790" lon="-122.4021153"/>
+ <node id="280924388" visible="true" version="6" changeset="855455" timestamp="2009-03-25T02:52:32Z" user="Sarah M" uid="74292" lat="37.8023660" lon="-122.4018051"/>
+ <node id="65332847" visible="true" version="7" changeset="15119563" timestamp="2013-02-22T07:20:17Z" user="wegavision" uid="564585" lat="37.7964975" lon="-122.4100931"/>
+ <node id="65333970" visible="true" version="10" changeset="6516180" timestamp="2010-12-02T16:01:39Z" user="Gregory Arenius" uid="116029" lat="37.7988653" lon="-122.3986989">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="turn_restrictions" v="no"/>
+ </node>
+ <node id="371042030" visible="true" version="2" changeset="5402807" timestamp="2010-08-04T20:21:20Z" user="Gregory Arenius" uid="116029" lat="37.7991384" lon="-122.4018467"/>
+ <node id="370139383" visible="true" version="3" changeset="10582043" timestamp="2012-02-04T08:52:29Z" user="saikofish" uid="236172" lat="37.7964157" lon="-122.4041058"/>
+ <node id="1648150903" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:27Z" user="gaku" uid="19532" lat="37.7966397" lon="-122.4054756"/>
+ <node id="65333961" visible="true" version="9" changeset="2102778" timestamp="2009-08-10T22:03:53Z" user="woodpeck_fixbot" uid="147510" lat="37.7989874" lon="-122.3981152"/>
+ <node id="65333957" visible="true" version="14" changeset="6516180" timestamp="2010-12-02T16:01:30Z" user="Gregory Arenius" uid="116029" lat="37.7992919" lon="-122.3975308">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="turn_restrictions" v="no"/>
+ </node>
+ <node id="65336496" visible="true" version="4" changeset="9781301" timestamp="2011-11-09T13:24:11Z" user="StellanL" uid="28775" lat="37.8009234" lon="-122.4015375"/>
+ <node id="370139284" visible="true" version="3" changeset="10582043" timestamp="2012-02-04T08:52:29Z" user="saikofish" uid="236172" lat="37.7964101" lon="-122.4041428"/>
+ <node id="65372836" visible="true" version="5" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7968086" lon="-122.4076209"/>
+ <node id="371042720" visible="true" version="7" changeset="6413209" timestamp="2010-11-20T11:12:39Z" user="Gregory Arenius" uid="116029" lat="37.7993651" lon="-122.4017955"/>
+ <node id="370139285" visible="true" version="3" changeset="10582043" timestamp="2012-02-04T08:52:29Z" user="saikofish" uid="236172" lat="37.7965760" lon="-122.4041809"/>
+ <node id="371041301" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:08Z" user="saikofish" uid="236172" lat="37.7980664" lon="-122.4003881"/>
+ <node id="65373233" visible="true" version="4" changeset="6741887" timestamp="2010-12-23T02:26:39Z" user="StellanL" uid="28775" lat="37.7948598" lon="-122.4048777"/>
+ <node id="1648150905" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:27Z" user="gaku" uid="19532" lat="37.7966503" lon="-122.4053763"/>
+ <node id="371041699" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:10Z" user="saikofish" uid="236172" lat="37.7986178" lon="-122.3999870"/>
+ <node id="65305837" visible="true" version="4" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7966710" lon="-122.4035487"/>
+ <node id="334986961" visible="true" version="6" changeset="6413209" timestamp="2010-11-20T11:12:35Z" user="Gregory Arenius" uid="116029" lat="37.7992159" lon="-122.4029934"/>
+ <node id="370139370" visible="true" version="3" changeset="10582043" timestamp="2012-02-04T08:52:29Z" user="saikofish" uid="236172" lat="37.7967132" lon="-122.4041693"/>
+ <node id="65372833" visible="true" version="9" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7970710" lon="-122.4055352">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="837099856" visible="true" version="1" changeset="5343349" timestamp="2010-07-29T02:15:00Z" user="rabbitface" uid="321578" lat="37.7983695" lon="-122.4054751"/>
+ <node id="65336047" visible="true" version="4" changeset="3601168" timestamp="2010-01-12T07:37:18Z" user="Speight" uid="24452" lat="37.8032443" lon="-122.4019933"/>
+ <node id="612028664" visible="true" version="2" changeset="14303796" timestamp="2012-12-17T09:50:15Z" user="oba510" uid="933797" lat="37.8039267" lon="-122.4021006">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="2071244699" visible="true" version="1" changeset="14303796" timestamp="2012-12-17T09:50:05Z" user="oba510" uid="933797" lat="37.7991191" lon="-122.3978614">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="65359314" visible="true" version="5" changeset="15119912" timestamp="2013-02-22T07:58:00Z" user="wegavision" uid="564585" lat="37.7957192" lon="-122.4016742">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="65299292" visible="true" version="8" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.7993770" lon="-122.4024194"/>
+ <node id="65359319" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:58:00Z" user="wegavision" uid="564585" lat="37.8016966" lon="-122.4028919"/>
+ <node id="1648150893" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:26Z" user="gaku" uid="19532" lat="37.7968962" lon="-122.4057921"/>
+ <node id="65327384" visible="true" version="6" changeset="15119563" timestamp="2013-02-22T07:20:17Z" user="wegavision" uid="564585" lat="37.7978070" lon="-122.3996863"/>
+ <node id="1648150895" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:26Z" user="gaku" uid="19532" lat="37.7968951" lon="-122.4058109"/>
+ <node id="1648150874" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:26Z" user="gaku" uid="19532" lat="37.7966567" lon="-122.4054810"/>
+ <node id="65305854" visible="true" version="6" changeset="15117683" timestamp="2013-02-21T22:39:07Z" user="wegavision" uid="564585" lat="37.8001334" lon="-122.4042608"/>
+ <node id="65336494" visible="true" version="6" changeset="9781301" timestamp="2011-11-09T13:24:11Z" user="StellanL" uid="28775" lat="37.8004592" lon="-122.4014468"/>
+ <node id="65333988" visible="true" version="11" changeset="15117683" timestamp="2013-02-21T22:39:07Z" user="wegavision" uid="564585" lat="37.7980169" lon="-122.4054891"/>
+ <node id="65355192" visible="true" version="5" changeset="15119563" timestamp="2013-02-22T07:20:18Z" user="wegavision" uid="564585" lat="37.7969462" lon="-122.4065274"/>
+ <node id="65333968" visible="true" version="9" changeset="2102778" timestamp="2009-08-10T22:03:53Z" user="woodpeck_fixbot" uid="147510" lat="37.7989263" lon="-122.3983384"/>
+ <node id="65322629" visible="true" version="3" changeset="2102778" timestamp="2009-08-10T22:00:12Z" user="woodpeck_fixbot" uid="147510" lat="37.8023110" lon="-122.4017940"/>
+ <node id="65299296" visible="true" version="6" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7991682" lon="-122.4040536"/>
+ <node id="370139287" visible="true" version="3" changeset="10582043" timestamp="2012-02-04T08:52:29Z" user="saikofish" uid="236172" lat="37.7966852" lon="-122.4044429"/>
+ <node id="65336487" visible="true" version="6" changeset="10582043" timestamp="2012-02-04T08:52:33Z" user="saikofish" uid="236172" lat="37.7967824" lon="-122.4006932"/>
+ <node id="335439148" visible="true" version="1" changeset="825903" timestamp="2009-01-22T16:37:12Z" user="Sarah M" uid="74292" lat="37.7991147" lon="-122.4041307">
+  <tag k="addr:housenumber" v="1065"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+ </node>
+ <node id="370139281" visible="true" version="3" changeset="10582043" timestamp="2012-02-04T08:52:29Z" user="saikofish" uid="236172" lat="37.7966648" lon="-122.4046232"/>
+ <node id="1648150876" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:26Z" user="gaku" uid="19532" lat="37.7969756" lon="-122.4058270"/>
+ <node id="1617460504" visible="true" version="1" changeset="10582043" timestamp="2012-02-04T08:52:07Z" user="saikofish" uid="236172" lat="37.7967928" lon="-122.4040830"/>
+ <node id="334986962" visible="true" version="7" changeset="9781301" timestamp="2011-11-09T13:24:11Z" user="StellanL" uid="28775" lat="37.7992783" lon="-122.4025423"/>
+ <node id="65337385" visible="true" version="6" changeset="10582043" timestamp="2012-02-04T08:52:34Z" user="saikofish" uid="236172" lat="37.7962187" lon="-122.4051506"/>
+ <node id="316735419" visible="true" version="6" changeset="829307" timestamp="2009-03-18T18:22:33Z" user="Sarah M" uid="74292" lat="37.8003424" lon="-122.4043074"/>
+ <node id="65296042" visible="true" version="7" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7992142" lon="-122.4036939"/>
+ <node id="65327386" visible="true" version="11" changeset="13137903" timestamp="2012-09-17T00:38:41Z" user="StellanL" uid="28775" lat="37.7987245" lon="-122.3998701">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="turn_restrictions" v="no"/>
+ </node>
+ <node id="65336953" visible="true" version="3" changeset="2102778" timestamp="2009-08-10T22:04:35Z" user="woodpeck_fixbot" uid="147510" lat="37.7944530" lon="-122.4047960"/>
+ <node id="65312616" visible="true" version="5" changeset="9781301" timestamp="2011-11-09T13:24:11Z" user="StellanL" uid="28775" lat="37.8013989" lon="-122.4016285"/>
+ <node id="1648150888" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:26Z" user="gaku" uid="19532" lat="37.7966238" lon="-122.4057371"/>
+ <node id="371041054" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:07Z" user="saikofish" uid="236172" lat="37.7982646" lon="-122.3999142"/>
+ <node id="359089011" visible="true" version="2" changeset="789955" timestamp="2009-03-11T17:54:24Z" user="Sarah M" uid="74292" lat="37.7991125" lon="-122.4033010"/>
+ <node id="65299288" visible="true" version="7" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7995257" lon="-122.4012560"/>
+ <node id="65374822" visible="true" version="3" changeset="2102778" timestamp="2009-08-10T22:13:22Z" user="woodpeck_fixbot" uid="147510" lat="37.7979030" lon="-122.4054810"/>
+ <node id="612767658" visible="true" version="1" changeset="3607846" timestamp="2010-01-13T06:19:46Z" user="Speight" uid="24452" lat="37.7975169" lon="-122.4061825"/>
+ <node id="65305835" visible="true" version="7" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7964276" lon="-122.4034989">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals:sound" v="yes"/>
+ </node>
+ <node id="65352122" visible="true" version="2" changeset="2102778" timestamp="2009-08-10T22:08:45Z" user="woodpeck_fixbot" uid="147510" lat="37.7968070" lon="-122.4024620"/>
+ <node id="65345234" visible="true" version="6" changeset="15119912" timestamp="2013-02-22T07:58:00Z" user="wegavision" uid="564585" lat="37.8003152" lon="-122.4026105"/>
+ <node id="65305832" visible="true" version="5" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7955322" lon="-122.4033157">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals:sound" v="yes"/>
+ </node>
+ <node id="65337375" visible="true" version="7" changeset="15119912" timestamp="2013-02-22T07:58:00Z" user="wegavision" uid="564585" lat="37.7966348" lon="-122.4018607">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="65374771" visible="true" version="5" changeset="9781301" timestamp="2011-11-09T13:59:08Z" user="StellanL" uid="28775" lat="37.7953254" lon="-122.4049712"/>
+ <node id="370139373" visible="true" version="3" changeset="10582043" timestamp="2012-02-04T08:52:29Z" user="saikofish" uid="236172" lat="37.7967265" lon="-122.4040693"/>
+ <node id="371042718" visible="true" version="5" changeset="6413209" timestamp="2010-11-20T11:12:33Z" user="Gregory Arenius" uid="116029" lat="37.7994201" lon="-122.4013530"/>
+ <node id="65345142" visible="true" version="4" changeset="5343349" timestamp="2010-07-29T02:15:00Z" user="rabbitface" uid="321578" lat="37.7983632" lon="-122.4055274"/>
+ <node id="65299293" visible="true" version="8" changeset="15117683" timestamp="2013-02-21T22:39:06Z" user="wegavision" uid="564585" lat="37.7992674" lon="-122.4032770"/>
+ <node id="65322632" visible="true" version="5" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585" lat="37.8021743" lon="-122.4029893"/>
+ <node id="280924406" visible="true" version="7" changeset="3601168" timestamp="2010-01-12T07:37:30Z" user="Speight" uid="24452" lat="37.8034456" lon="-122.4020295"/>
+ <node id="359089063" visible="true" version="2" changeset="789955" timestamp="2009-03-11T17:54:59Z" user="Sarah M" uid="74292" lat="37.7991260" lon="-122.4032066"/>
+ <node id="371041302" visible="true" version="4" changeset="10582205" timestamp="2012-02-04T09:20:08Z" user="saikofish" uid="236172" lat="37.7981736" lon="-122.4004096"/>
+ <node id="65336485" visible="true" version="5" changeset="2102778" timestamp="2009-08-10T22:04:26Z" user="woodpeck_fixbot" uid="147510" lat="37.7958676" lon="-122.4004927"/>
+ <node id="1496348036" visible="true" version="2" changeset="10582043" timestamp="2012-02-04T08:52:25Z" user="saikofish" uid="236172" lat="37.7965839" lon="-122.4043012"/>
+ <node id="280836272" visible="true" version="10" changeset="6558545" timestamp="2010-12-06T00:16:01Z" user="Gregory Arenius" uid="116029" lat="37.8039723" lon="-122.4020322">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="366718854" visible="true" version="1" changeset="867225" timestamp="2009-03-28T22:36:57Z" user="RaffyO" uid="81497" lat="37.7991867" lon="-122.4046568"/>
+ <node id="1648150911" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:27Z" user="gaku" uid="19532" lat="37.7969963" lon="-122.4056352"/>
+ <node id="65305852" visible="true" version="3" changeset="2102778" timestamp="2009-08-10T21:55:20Z" user="woodpeck_fixbot" uid="147510" lat="37.7997690" lon="-122.4041730"/>
+ <node id="837099803" visible="true" version="2" changeset="6516180" timestamp="2010-12-02T16:01:14Z" user="Gregory Arenius" uid="116029" lat="37.7983419" lon="-122.4054536"/>
+ <way id="32611080" visible="true" version="6" changeset="3607846" timestamp="2010-01-13T06:16:33Z" user="Speight" uid="24452">
+  <nd ref="366714498"/>
+  <nd ref="366714502"/>
+  <nd ref="366714507"/>
+  <nd ref="366714511"/>
+  <nd ref="366714959"/>
+  <nd ref="366714960"/>
+  <nd ref="366714962"/>
+  <nd ref="366714515"/>
+  <nd ref="366714519"/>
+  <nd ref="366714523"/>
+  <nd ref="366714528"/>
+  <nd ref="366714533"/>
+  <nd ref="366714535"/>
+  <nd ref="366714538"/>
+  <nd ref="366714543"/>
+  <nd ref="366714546"/>
+  <nd ref="366714498"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="8921371" visible="true" version="3" changeset="16787763" timestamp="2013-07-02T08:06:45Z" user="vonvonvon" uid="190493">
+  <nd ref="65305845"/>
+  <nd ref="65366996"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Verdi Place"/>
+  <tag k="service" v="alley"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Verdi"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="8918994" visible="true" version="21" changeset="16421782" timestamp="2013-06-04T16:40:38Z" user="jfire" uid="67236">
+  <nd ref="65333957"/>
+  <nd ref="258965618"/>
+  <nd ref="2071244699"/>
+  <nd ref="65333959"/>
+  <nd ref="65333961"/>
+  <nd ref="65333966"/>
+  <nd ref="65333968"/>
+  <nd ref="65333970"/>
+  <nd ref="65327386"/>
+  <nd ref="65333972"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lcn_ref" v="10"/>
+  <tag k="name" v="Broadway Street"/>
+  <tag k="name_1" v="Broadway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Broadway"/>
+  <tag k="tiger:name_base_1" v="Broadway"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="166223045" visible="true" version="3" changeset="14304240" timestamp="2012-12-17T10:36:59Z" user="tkmedia" uid="183737">
+  <nd ref="1776942619"/>
+  <nd ref="1776942622"/>
+  <nd ref="1776942618"/>
+  <nd ref="1776942611"/>
+  <nd ref="1776942633"/>
+  <nd ref="1776942631"/>
+  <nd ref="1776942616"/>
+  <nd ref="1776942609"/>
+  <nd ref="1776942610"/>
+  <nd ref="1786969098"/>
+  <nd ref="1776942613"/>
+  <nd ref="1776942621"/>
+  <nd ref="1776942620"/>
+  <nd ref="1776942617"/>
+  <nd ref="1776942615"/>
+  <nd ref="1776942619"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="206591566" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:04Z" user="wegavision" uid="564585">
+  <nd ref="2166132732"/>
+  <nd ref="2166132680"/>
+  <nd ref="2166132673"/>
+  <nd ref="2166132667"/>
+  <nd ref="2166132663"/>
+  <nd ref="2166132682"/>
+  <nd ref="2166132717"/>
+  <nd ref="2166132719"/>
+  <nd ref="2166132732"/>
+  <tag k="access" v="yes"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="825"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Sansome Street"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="building" v="yes"/>
+  <tag k="fee" v="yes"/>
+  <tag k="parking" v="multi-storey"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="32947716" visible="true" version="1" changeset="347915" timestamp="2009-04-09T09:18:43Z" user="RaffyO" uid="81497">
+  <nd ref="371041948"/>
+  <nd ref="371041949"/>
+  <nd ref="371041950"/>
+  <nd ref="371041951"/>
+  <nd ref="371041948"/>
+  <tag k="building" v="yes"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="35266376" visible="true" version="1" changeset="1366283" timestamp="2009-05-31T10:06:14Z" user="Gregory Arenius" uid="116029">
+  <nd ref="413381516"/>
+  <nd ref="413381519"/>
+  <nd ref="413381521"/>
+  <nd ref="413381524"/>
+  <nd ref="413381516"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="area" v="yes"/>
+  <tag k="fee" v="yes"/>
+  <tag k="operator" v="California Parking"/>
+  <tag k="source" v="survey"/>
+ </way>
+ <way id="206591548" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:03Z" user="wegavision" uid="564585">
+  <nd ref="2166132813"/>
+  <nd ref="2166132816"/>
+  <nd ref="2166132776"/>
+  <nd ref="2166132765"/>
+  <nd ref="2166132757"/>
+  <nd ref="2166132771"/>
+  <nd ref="2166132813"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="333"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206582194" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:50Z" user="wegavision" uid="564585">
+  <nd ref="2166014715"/>
+  <nd ref="2166014717"/>
+  <nd ref="2166014701"/>
+  <nd ref="2166014699"/>
+  <nd ref="2166014697"/>
+  <nd ref="2166014702"/>
+  <nd ref="2166014715"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="463"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="8917462" visible="true" version="3" changeset="16781624" timestamp="2013-07-01T18:46:44Z" user="vonvonvon" uid="190493">
+  <nd ref="65318416"/>
+  <nd ref="65318425"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Jerome Alley"/>
+  <tag k="service" v="alley"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Jerome"/>
+  <tag k="tiger:name_type" v="Aly"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="206591552" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:03Z" user="wegavision" uid="564585">
+  <nd ref="2166132739"/>
+  <nd ref="2166132789"/>
+  <nd ref="2166132792"/>
+  <nd ref="2166132748"/>
+  <nd ref="2166132739"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="371"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="32947779" visible="true" version="4" changeset="6413209" timestamp="2010-11-20T11:12:32Z" user="Gregory Arenius" uid="116029">
+  <nd ref="371043138"/>
+  <nd ref="371043140"/>
+  <nd ref="995938647"/>
+  <nd ref="995938675"/>
+  <nd ref="371043138"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="206621047" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:15Z" user="wegavision" uid="564585">
+  <nd ref="2166542062"/>
+  <nd ref="2166542064"/>
+  <nd ref="2166542053"/>
+  <nd ref="2166542052"/>
+  <nd ref="2166542062"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="596"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="32947683" visible="true" version="1" changeset="347915" timestamp="2009-04-09T09:16:20Z" user="RaffyO" uid="81497">
+  <nd ref="371041217"/>
+  <nd ref="371041218"/>
+  <nd ref="371041219"/>
+  <nd ref="371041220"/>
+  <nd ref="371041217"/>
+  <tag k="building" v="yes"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="30390271" visible="true" version="1" changeset="825903" timestamp="2009-01-22T16:37:13Z" user="Sarah M" uid="74292">
+  <nd ref="335439148"/>
+  <nd ref="335439150"/>
+  <tag k="addr:interpolation" v="odd"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="32014828" visible="true" version="2" changeset="789955" timestamp="2009-03-11T17:54:24Z" user="Sarah M" uid="74292">
+  <nd ref="359089010"/>
+  <nd ref="359089011"/>
+  <tag k="addr:interpolation" v="odd"/>
+  <tag k="addr:street" v="Prescott Ct"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="26938155" visible="true" version="15" changeset="6516180" timestamp="2010-12-02T16:01:45Z" user="Gregory Arenius" uid="116029">
+  <nd ref="65305832"/>
+  <nd ref="65305835"/>
+  <nd ref="65305837"/>
+  <nd ref="65305839"/>
+  <nd ref="65305842"/>
+  <nd ref="65305845"/>
+  <nd ref="65305848"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Montgomery Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Montgomery"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192280991:192281024:192280988:192293031"/>
+  <tag k="tiger:zip_left" v="94111"/>
+  <tag k="tiger:zip_right" v="94111"/>
+ </way>
+ <way id="206582184" visible="true" version="2" changeset="15119563" timestamp="2013-02-22T07:20:16Z" user="wegavision" uid="564585">
+  <nd ref="2166014692"/>
+  <nd ref="2166014698"/>
+  <nd ref="2166014703"/>
+  <nd ref="2166014693"/>
+  <nd ref="2166014692"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="1042"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Kearny Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="8919721" visible="true" version="4" changeset="9781301" timestamp="2011-11-09T13:27:35Z" user="StellanL" uid="28775">
+  <nd ref="65346881"/>
+  <nd ref="65346882"/>
+  <tag k="FIXME" v="Pretty sure this street isn't here but want to check on the ground before deleteing"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Stevens Alley"/>
+  <tag k="service" v="alley"/>
+  <tag k="source" v="Bing"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Stevens"/>
+  <tag k="tiger:name_type" v="Aly"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281264"/>
+ </way>
+ <way id="206591544" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585">
+  <nd ref="2166132698"/>
+  <nd ref="2166132702"/>
+  <nd ref="2166132704"/>
+  <nd ref="2166132715"/>
+  <nd ref="2166132729"/>
+  <nd ref="2166132733"/>
+  <nd ref="2166132700"/>
+  <nd ref="2166132698"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Osgood Place"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206582189" visible="true" version="2" changeset="15119563" timestamp="2013-02-22T07:20:16Z" user="wegavision" uid="564585">
+  <nd ref="2166014694"/>
+  <nd ref="2166014691"/>
+  <nd ref="2166014690"/>
+  <nd ref="2166014692"/>
+  <nd ref="2166014693"/>
+  <nd ref="2166014694"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Kearny Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591551" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:03Z" user="wegavision" uid="564585">
+  <nd ref="2166132792"/>
+  <nd ref="2166132804"/>
+  <nd ref="2166132751"/>
+  <nd ref="2166132745"/>
+  <nd ref="2166132742"/>
+  <nd ref="2166132748"/>
+  <nd ref="2166132792"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="369"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206621038" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585">
+  <nd ref="2166542079"/>
+  <nd ref="2166542056"/>
+  <nd ref="2166542055"/>
+  <nd ref="2166542078"/>
+  <nd ref="2166542079"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="30366289" visible="true" version="3" changeset="3607846" timestamp="2010-01-13T05:53:53Z" user="Speight" uid="24452">
+  <nd ref="334986961"/>
+  <nd ref="334986962"/>
+  <nd ref="334986961"/>
+  <nd ref="334986963"/>
+  <nd ref="334986964"/>
+  <nd ref="334986962"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="206623943" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585">
+  <nd ref="2166577091"/>
+  <nd ref="2166577092"/>
+  <nd ref="371039729"/>
+  <nd ref="2166577089"/>
+  <nd ref="2166577091"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="832"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Sansome Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="8919925" visible="true" version="4" changeset="6516180" timestamp="2010-12-02T16:01:27Z" user="Gregory Arenius" uid="116029">
+  <nd ref="65349371"/>
+  <nd ref="65333983"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Osgood Place"/>
+  <tag k="service" v="alley"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Osgood"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281116:192292079"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="8922640" visible="true" version="15" changeset="9781301" timestamp="2011-11-09T14:04:14Z" user="StellanL" uid="28775">
+  <nd ref="65305832"/>
+  <nd ref="65308952"/>
+  <nd ref="65337383"/>
+  <nd ref="1496348030"/>
+  <nd ref="65374820"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lcn_ref" v="11"/>
+  <tag k="name" v="Columbus Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Columbus"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192280193:192280209:192280197:192280226:192302044:192280300:192280405:192280409:192280441:192280445:192281174:192281177:192281048:192280539:192281202:192296795:192280527:192280306:192280294"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="167289491" visible="true" version="2" changeset="14304240" timestamp="2012-12-17T10:36:59Z" user="tkmedia" uid="183737">
+  <nd ref="1786969405"/>
+  <nd ref="1786969097"/>
+  <nd ref="1786969406"/>
+  <nd ref="1786969399"/>
+  <nd ref="1786969395"/>
+  <nd ref="1786969402"/>
+  <nd ref="1786969407"/>
+  <nd ref="1786969408"/>
+  <nd ref="1786969401"/>
+  <nd ref="1786969400"/>
+  <nd ref="1786969404"/>
+  <nd ref="1786969403"/>
+  <nd ref="1786969397"/>
+  <nd ref="1786969396"/>
+  <nd ref="1786969398"/>
+  <nd ref="1786969409"/>
+  <nd ref="1786969405"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="70077929" visible="true" version="4" changeset="15119563" timestamp="2013-02-22T07:20:16Z" user="wegavision" uid="564585">
+  <nd ref="837099810"/>
+  <nd ref="837099812"/>
+  <nd ref="837099815"/>
+  <nd ref="837099816"/>
+  <nd ref="2166542082"/>
+  <nd ref="837099810"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="435"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="70077928" visible="true" version="1" changeset="5343349" timestamp="2010-07-29T02:14:58Z" user="rabbitface" uid="321578">
+  <nd ref="837099801"/>
+  <nd ref="837099803"/>
+  <nd ref="837099805"/>
+  <nd ref="837099806"/>
+  <nd ref="837099801"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Green Tortoise Hostel"/>
+  <tag k="tourism" v="hostel"/>
+ </way>
+ <way id="206591542" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585">
+  <nd ref="2166132673"/>
+  <nd ref="2166132649"/>
+  <nd ref="2166132637"/>
+  <nd ref="2166132635"/>
+  <nd ref="2166132667"/>
+  <nd ref="2166132673"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206582192" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:49Z" user="wegavision" uid="564585">
+  <nd ref="2166014721"/>
+  <nd ref="2166014707"/>
+  <nd ref="2166014710"/>
+  <nd ref="2166014722"/>
+  <nd ref="2166014721"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="447"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206582190" visible="true" version="2" changeset="15119563" timestamp="2013-02-22T07:20:16Z" user="wegavision" uid="564585">
+  <nd ref="2166014696"/>
+  <nd ref="2166014686"/>
+  <nd ref="2166014685"/>
+  <nd ref="2166014691"/>
+  <nd ref="2166014694"/>
+  <nd ref="2166014695"/>
+  <nd ref="2166014696"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Nottingham Place"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="224384010" visible="true" version="1" changeset="16421782" timestamp="2013-06-04T16:40:08Z" user="jfire" uid="67236">
+  <nd ref="65333972"/>
+  <nd ref="65333976"/>
+  <nd ref="65333983"/>
+  <nd ref="65296029"/>
+  <nd ref="65305848"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lcn_ref" v="10"/>
+  <tag k="name" v="Broadway Street"/>
+  <tag k="name_1" v="Broadway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Broadway"/>
+  <tag k="tiger:name_base_1" v="Broadway"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="30105782" visible="true" version="7" changeset="11495263" timestamp="2012-05-04T07:44:12Z" user="Gregory Arenius" uid="116029">
+  <nd ref="331669189"/>
+  <nd ref="331669190"/>
+  <nd ref="331669522"/>
+  <nd ref="331669524"/>
+  <nd ref="331669189"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:country" v="US"/>
+  <tag k="addr:housenumber" v="350"/>
+  <tag k="addr:postcode" v="94133"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="amenity" v="school"/>
+  <tag k="fax" v="(415) 291-7943"/>
+  <tag k="grades" v="K-5"/>
+  <tag k="name" v="John Yehall Chin Elementary School"/>
+  <tag k="operator" v="San Francisco Unified School District"/>
+  <tag k="phone" v="(415) 291-7946"/>
+ </way>
+ <way id="167289359" visible="true" version="2" changeset="16531966" timestamp="2013-06-13T02:58:24Z" user="ansis" uid="1193517">
+  <nd ref="1786969095"/>
+  <nd ref="1786969074"/>
+  <nd ref="1786969094"/>
+  <nd ref="1786969100"/>
+  <nd ref="1786969102"/>
+  <nd ref="1786969101"/>
+  <nd ref="1786969079"/>
+  <nd ref="1786969097"/>
+  <nd ref="1786969096"/>
+  <nd ref="1786969098"/>
+  <nd ref="1786969095"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="206621041" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:15Z" user="wegavision" uid="564585">
+  <nd ref="2166542077"/>
+  <nd ref="2166542068"/>
+  <nd ref="2166542067"/>
+  <nd ref="2166542066"/>
+  <nd ref="2166542076"/>
+  <nd ref="2166542077"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="1026, 1028"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Kearny Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="87376675" visible="true" version="2" changeset="9563726" timestamp="2011-10-15T13:59:57Z" user="NE2" uid="207745">
+  <nd ref="65305848"/>
+  <nd ref="65306543"/>
+  <nd ref="65333988"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lcn_ref" v="10"/>
+  <tag k="name" v="Broadway Street"/>
+  <tag k="name_1" v="Broadway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Broadway"/>
+  <tag k="tiger:name_base_1" v="Broadway"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192280753:192280793:192280795:192280813:192291935:192281170:192281175:192281195:192281197:192281115:192281108:192281109:192281168:192280815"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="32946059" visible="true" version="1" changeset="347915" timestamp="2009-04-09T07:09:20Z" user="RaffyO" uid="81497">
+  <nd ref="371006741"/>
+  <nd ref="371006742"/>
+  <nd ref="371006743"/>
+  <nd ref="371006744"/>
+  <nd ref="371006741"/>
+  <tag k="area" v="yes"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="leisure" v="common"/>
+ </way>
+ <way id="206582191" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:49Z" user="wegavision" uid="564585">
+  <nd ref="2166014701"/>
+  <nd ref="2166014704"/>
+  <nd ref="2166014688"/>
+  <nd ref="2166014684"/>
+  <nd ref="2166014689"/>
+  <nd ref="2166014699"/>
+  <nd ref="2166014701"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="206591561" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:04Z" user="wegavision" uid="564585">
+  <nd ref="2166132629"/>
+  <nd ref="2166132678"/>
+  <nd ref="2166132682"/>
+  <nd ref="2166132663"/>
+  <nd ref="2166132659"/>
+  <nd ref="2166132657"/>
+  <nd ref="2166132631"/>
+  <nd ref="2166132629"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="440"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="24245395" visible="true" version="13" changeset="16421782" timestamp="2013-06-04T16:40:40Z" user="jfire" uid="67236">
+  <nd ref="65327384"/>
+  <nd ref="65336489"/>
+  <nd ref="65359317"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Pacific Avenue"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Pacific"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:zip_left" v="94118"/>
+  <tag k="tiger:zip_right" v="94118"/>
+ </way>
+ <way id="206623942" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585">
+  <nd ref="2166577089"/>
+  <nd ref="371039729"/>
+  <nd ref="2166577088"/>
+  <nd ref="2166577086"/>
+  <nd ref="2166577089"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="394"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591570" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:05Z" user="wegavision" uid="564585">
+  <nd ref="2166132816"/>
+  <nd ref="2166132819"/>
+  <nd ref="2166132786"/>
+  <nd ref="2166132776"/>
+  <nd ref="2166132816"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="875"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Sansome Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206621045" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:15Z" user="wegavision" uid="564585">
+  <nd ref="2166542059"/>
+  <nd ref="2166542057"/>
+  <nd ref="2166542080"/>
+  <nd ref="2166542081"/>
+  <nd ref="2166542059"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="564"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="148668326" visible="true" version="1" changeset="10582205" timestamp="2012-02-04T09:19:57Z" user="saikofish" uid="236172">
+  <nd ref="371040828"/>
+  <nd ref="371039659"/>
+  <nd ref="371039658"/>
+  <nd ref="371039599"/>
+  <nd ref="1617478631"/>
+  <nd ref="1617478629"/>
+  <nd ref="371039598"/>
+  <nd ref="371039597"/>
+  <nd ref="371040828"/>
+  <tag k="area" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+ </way>
+ <way id="32014470" visible="true" version="4" changeset="3607846" timestamp="2010-01-13T05:53:26Z" user="Speight" uid="24452">
+  <nd ref="359084771"/>
+  <nd ref="612765339"/>
+  <nd ref="65296042"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="Bartol Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Bartol"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="yes"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281114:192281107"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="91182064" visible="true" version="1" changeset="6741887" timestamp="2010-12-23T02:26:40Z" user="StellanL" uid="28775">
+  <nd ref="65374820"/>
+  <nd ref="65372831"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Kearny Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Kearny"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281021:192292063:192281039:192281058:192281070:192281072:192302068"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="206582196" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:50Z" user="wegavision" uid="564585">
+  <nd ref="2166014712"/>
+  <nd ref="2166014713"/>
+  <nd ref="2166014700"/>
+  <nd ref="2166014695"/>
+  <nd ref="2166014694"/>
+  <nd ref="2166014693"/>
+  <nd ref="2166014703"/>
+  <nd ref="2166014712"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="479"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206621039" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585">
+  <nd ref="2166542078"/>
+  <nd ref="2166542055"/>
+  <nd ref="2166542054"/>
+  <nd ref="2166542068"/>
+  <nd ref="2166542077"/>
+  <nd ref="2166542078"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="32947763" visible="true" version="4" changeset="14350709" timestamp="2012-12-21T03:56:01Z" user="tkmedia" uid="183737">
+  <nd ref="371042716"/>
+  <nd ref="371042717"/>
+  <nd ref="371042718"/>
+  <nd ref="371042720"/>
+  <nd ref="371042716"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="KPIX TV"/>
+ </way>
+ <way id="206621044" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:15Z" user="wegavision" uid="564585">
+  <nd ref="2166542074"/>
+  <nd ref="2166542069"/>
+  <nd ref="2166542070"/>
+  <nd ref="2166542060"/>
+  <nd ref="2166542059"/>
+  <nd ref="2166542081"/>
+  <nd ref="837099810"/>
+  <nd ref="2166542082"/>
+  <nd ref="2166542075"/>
+  <nd ref="2166542074"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="555"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="167289268" visible="true" version="2" changeset="14304240" timestamp="2012-12-17T10:36:59Z" user="tkmedia" uid="183737">
+  <nd ref="1786968589"/>
+  <nd ref="1786968591"/>
+  <nd ref="1776942103"/>
+  <nd ref="1786968586"/>
+  <nd ref="1786968589"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="48211230" visible="true" version="3" changeset="6741887" timestamp="2010-12-23T02:18:09Z" user="StellanL" uid="28775">
+  <nd ref="65333972"/>
+  <nd ref="65336491"/>
+  <nd ref="65336489"/>
+  <nd ref="65336487"/>
+  <nd ref="65336485"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Battery Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Battery"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281086:192281089:192281093:192281120:192281121:192281142:192281095:192302094"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94111"/>
+ </way>
+ <way id="206591569" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:04Z" user="wegavision" uid="564585">
+  <nd ref="2166132786"/>
+  <nd ref="2166132774"/>
+  <nd ref="2166132762"/>
+  <nd ref="2166132765"/>
+  <nd ref="2166132776"/>
+  <nd ref="2166132786"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="855"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Sansome Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="30390473" visible="true" version="3" changeset="15117133" timestamp="2013-02-21T21:38:51Z" user="wegavision" uid="564585">
+  <nd ref="335440990"/>
+  <nd ref="335440991"/>
+  <nd ref="335440992"/>
+  <nd ref="335440994"/>
+  <nd ref="335440995"/>
+  <nd ref="335440997"/>
+  <nd ref="335440990"/>
+  <tag k="access" v="yes"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="fee" v="yes"/>
+ </way>
+ <way id="32611442" visible="true" version="1" changeset="867225" timestamp="2009-03-28T22:36:57Z" user="RaffyO" uid="81497">
+  <nd ref="366718854"/>
+  <nd ref="366718855"/>
+  <nd ref="366718856"/>
+  <nd ref="366718857"/>
+  <nd ref="366718854"/>
+  <tag k="area" v="yes"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="leisure" v="garden"/>
+ </way>
+ <way id="206621040" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:14Z" user="wegavision" uid="564585">
+  <nd ref="2166542066"/>
+  <nd ref="2166542067"/>
+  <nd ref="2166542064"/>
+  <nd ref="2166542062"/>
+  <nd ref="2166542066"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="1020"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Kearny Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="151980460" visible="true" version="1" changeset="10794858" timestamp="2012-02-26T07:32:27Z" user="gaku" uid="19532">
+  <nd ref="1648150876"/>
+  <nd ref="1648150911"/>
+  <nd ref="1648150909"/>
+  <nd ref="1648150905"/>
+  <nd ref="1648150903"/>
+  <nd ref="1648150874"/>
+  <nd ref="1648150888"/>
+  <nd ref="1648150893"/>
+  <nd ref="1648150895"/>
+  <nd ref="1648150876"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="29059461" visible="true" version="4" changeset="12133877" timestamp="2012-07-06T19:29:28Z" user="flierfy" uid="445671">
+  <nd ref="65372831"/>
+  <nd ref="65365814"/>
+  <nd ref="65374822"/>
+  <nd ref="65333988"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Kearny Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Kearny"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281021:192292063:192281039:192281058:192281070:192281072:192302068"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="32946024" visible="true" version="2" changeset="5343349" timestamp="2010-07-29T02:15:03Z" user="rabbitface" uid="321578">
+  <nd ref="371005244"/>
+  <nd ref="371005247"/>
+  <nd ref="371005249"/>
+  <nd ref="371005251"/>
+  <nd ref="371005244"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="30390294" visible="true" version="2" changeset="849388" timestamp="2009-01-28T15:53:14Z" user="Sarah M" uid="74292">
+  <nd ref="335439972"/>
+  <nd ref="335439974"/>
+  <tag k="addr:interpolation" v="even"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="8916405" visible="true" version="7" changeset="6516180" timestamp="2010-12-02T16:01:17Z" user="Gregory Arenius" uid="116029">
+  <nd ref="371251238"/>
+  <nd ref="65296029"/>
+  <nd ref="359084771"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Bartol Street"/>
+  <tag k="service" v="alley"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Bartol"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281114:192281107"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="91182062" visible="true" version="1" changeset="6741887" timestamp="2010-12-23T02:26:40Z" user="StellanL" uid="28775">
+  <nd ref="65336953"/>
+  <nd ref="65373233"/>
+  <nd ref="65374771"/>
+  <nd ref="65337385"/>
+  <nd ref="65374820"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Kearny Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Kearny"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281021:192292063:192281039:192281058:192281070:192281072:192302068"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="206621049" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:16Z" user="wegavision" uid="564585">
+  <nd ref="2166542083"/>
+  <nd ref="2166542084"/>
+  <nd ref="2166542065"/>
+  <nd ref="2166542085"/>
+  <nd ref="2166542063"/>
+  <nd ref="2166542083"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="909"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Westlake Building"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591572" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:05Z" user="wegavision" uid="564585">
+  <nd ref="2166132665"/>
+  <nd ref="2166132714"/>
+  <nd ref="2166132721"/>
+  <nd ref="2166132669"/>
+  <nd ref="2166132665"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="930"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="32613521" visible="true" version="2" changeset="5343349" timestamp="2010-07-29T02:15:02Z" user="rabbitface" uid="321578">
+  <nd ref="366736110"/>
+  <nd ref="366736113"/>
+  <nd ref="366736114"/>
+  <nd ref="366736116"/>
+  <nd ref="366736110"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="fee" v="yes"/>
+ </way>
+ <way id="136409939" visible="true" version="2" changeset="10582043" timestamp="2012-02-04T08:52:20Z" user="saikofish" uid="236172">
+  <nd ref="370139281"/>
+  <nd ref="1496348043"/>
+  <nd ref="1496348038"/>
+  <nd ref="1496348032"/>
+  <nd ref="1496348039"/>
+  <nd ref="1617460503"/>
+  <nd ref="1617460504"/>
+  <nd ref="370139373"/>
+  <nd ref="370139370"/>
+  <nd ref="370139383"/>
+  <nd ref="370139284"/>
+  <nd ref="370139285"/>
+  <nd ref="1617460497"/>
+  <nd ref="1496348036"/>
+  <nd ref="370139287"/>
+  <nd ref="370139281"/>
+  <tag k="amenity" v="parking"/>
+ </way>
+ <way id="32946057" visible="true" version="2" changeset="347915" timestamp="2009-04-09T07:10:19Z" user="RaffyO" uid="81497">
+  <nd ref="371006621"/>
+  <nd ref="371006622"/>
+  <nd ref="371006623"/>
+  <nd ref="371006624"/>
+  <nd ref="371006621"/>
+  <tag k="building" v="yes"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="206582193" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:50Z" user="wegavision" uid="564585">
+  <nd ref="2166014717"/>
+  <nd ref="2166014719"/>
+  <nd ref="2166014704"/>
+  <nd ref="2166014701"/>
+  <nd ref="2166014717"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="461"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="167289534" visible="true" version="2" changeset="14304240" timestamp="2012-12-17T10:36:59Z" user="tkmedia" uid="183737">
+  <nd ref="1786969808"/>
+  <nd ref="1786969396"/>
+  <nd ref="1786969401"/>
+  <nd ref="1786969810"/>
+  <nd ref="1786969805"/>
+  <nd ref="1786969804"/>
+  <nd ref="1786969809"/>
+  <nd ref="1786969807"/>
+  <nd ref="1786969806"/>
+  <nd ref="1786969808"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="206582185" visible="true" version="2" changeset="15119563" timestamp="2013-02-22T07:20:16Z" user="wegavision" uid="564585">
+  <nd ref="2166014697"/>
+  <nd ref="2166014699"/>
+  <nd ref="2166014689"/>
+  <nd ref="2166014686"/>
+  <nd ref="2166014696"/>
+  <nd ref="2166014697"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Nottingham Place"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591557" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:04Z" user="wegavision" uid="564585">
+  <nd ref="2166132663"/>
+  <nd ref="2166132667"/>
+  <nd ref="2166132635"/>
+  <nd ref="2166132633"/>
+  <nd ref="2166132659"/>
+  <nd ref="2166132663"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="430"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206623948" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585">
+  <nd ref="2166577115"/>
+  <nd ref="2166577110"/>
+  <nd ref="2166577100"/>
+  <nd ref="2166577097"/>
+  <nd ref="2166577119"/>
+  <nd ref="2166577121"/>
+  <nd ref="2166577115"/>
+  <tag k="access" v="private"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="parking" v="surface"/>
+ </way>
+ <way id="8916902" visible="true" version="2" changeset="3607846" timestamp="2010-01-13T06:17:38Z" user="Speight" uid="24452">
+  <nd ref="65306541"/>
+  <nd ref="65306543"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Rowland Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Rowland"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281203"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="32947711" visible="true" version="1" changeset="347915" timestamp="2009-04-09T09:18:28Z" user="RaffyO" uid="81497">
+  <nd ref="371041892"/>
+  <nd ref="371041893"/>
+  <nd ref="371041894"/>
+  <nd ref="371041895"/>
+  <nd ref="371041892"/>
+  <tag k="building" v="yes"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="88142690" visible="true" version="1" changeset="6558545" timestamp="2010-12-06T00:15:48Z" user="Gregory Arenius" uid="116029">
+  <nd ref="280836272"/>
+  <nd ref="612028664"/>
+  <nd ref="612028665"/>
+  <nd ref="260194340"/>
+  <nd ref="280924406"/>
+  <nd ref="65336047"/>
+  <nd ref="280924388"/>
+  <nd ref="65322629"/>
+  <nd ref="65312616"/>
+  <nd ref="65336496"/>
+  <nd ref="65336494"/>
+  <nd ref="65299288"/>
+  <nd ref="65333972"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Battery Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Battery"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281086:192281089:192281093:192281120:192281121:192281142:192281095:192302094"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94111"/>
+ </way>
+ <way id="206621046" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:15Z" user="wegavision" uid="564585">
+  <nd ref="2166542068"/>
+  <nd ref="2166542054"/>
+  <nd ref="2166542053"/>
+  <nd ref="2166542064"/>
+  <nd ref="2166542067"/>
+  <nd ref="2166542068"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="590"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="87376697" visible="true" version="2" changeset="10414227" timestamp="2012-01-17T04:31:41Z" user="Clorox" uid="119881">
+  <nd ref="65305848"/>
+  <nd ref="65305850"/>
+  <nd ref="65299296"/>
+  <nd ref="65305852"/>
+  <nd ref="65305854"/>
+  <nd ref="316735419"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Montgomery Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Montgomery"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192280991:192281024:192280988:192293031"/>
+  <tag k="tiger:zip_left" v="94111"/>
+  <tag k="tiger:zip_right" v="94111"/>
+ </way>
+ <way id="91185877" visible="true" version="2" changeset="9593097" timestamp="2011-10-18T17:29:45Z" user="NE2" uid="207745">
+  <nd ref="65374820"/>
+  <nd ref="65372833"/>
+  <nd ref="612767658"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lcn_ref" v="11"/>
+  <tag k="name" v="Columbus Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Columbus"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192280193:192280209:192280197:192280226:192302044:192280300:192280405:192280409:192280441:192280445:192281174:192281177:192281048:192280539:192281202:192296795:192280527:192280306:192280294"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="32947624" visible="true" version="3" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585">
+  <nd ref="2166577101"/>
+  <nd ref="371039731"/>
+  <nd ref="371039730"/>
+  <nd ref="371039595"/>
+  <nd ref="2166577090"/>
+  <nd ref="2166577095"/>
+  <nd ref="2166577098"/>
+  <nd ref="2166577105"/>
+  <nd ref="2166577103"/>
+  <nd ref="2166577110"/>
+  <nd ref="2166577115"/>
+  <nd ref="2166577108"/>
+  <nd ref="2166577106"/>
+  <nd ref="2166577101"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="735"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Battery Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="32947621" visible="true" version="3" changeset="15119912" timestamp="2013-02-22T07:57:59Z" user="wegavision" uid="564585">
+  <nd ref="371039658"/>
+  <nd ref="371039659"/>
+  <nd ref="371039661"/>
+  <nd ref="371039601"/>
+  <nd ref="371039599"/>
+  <nd ref="371039658"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="701"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Battery Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="8920998" visible="true" version="3" changeset="9781301" timestamp="2011-11-09T13:27:35Z" user="StellanL" uid="28775">
+  <nd ref="65362453"/>
+  <nd ref="65299290"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Cowell Place"/>
+  <tag k="service" v="alley"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Cowell"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281127"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="32947685" visible="true" version="1" changeset="347915" timestamp="2009-04-09T09:16:45Z" user="RaffyO" uid="81497">
+  <nd ref="371041299"/>
+  <nd ref="371041300"/>
+  <nd ref="371041301"/>
+  <nd ref="371041302"/>
+  <nd ref="371041299"/>
+  <tag k="building" v="yes"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="206591541" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585">
+  <nd ref="2166132649"/>
+  <nd ref="2166132655"/>
+  <nd ref="2166132639"/>
+  <nd ref="2166132637"/>
+  <nd ref="2166132649"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Sansome Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="8921252" visible="true" version="4" changeset="3607846" timestamp="2010-01-13T06:17:54Z" user="Speight" uid="24452">
+  <nd ref="65365812"/>
+  <nd ref="65365814"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Nottingham Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Nottingham"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281199"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="206621048" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:16Z" user="wegavision" uid="564585">
+  <nd ref="2166542085"/>
+  <nd ref="2166542058"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="parking_aisle"/>
+ </way>
+ <way id="224384028" visible="true" version="1" changeset="16421782" timestamp="2013-06-04T16:40:11Z" user="jfire" uid="67236">
+  <nd ref="65359317"/>
+  <nd ref="65346882"/>
+  <nd ref="65333976"/>
+  <nd ref="65299292"/>
+  <nd ref="65345234"/>
+  <nd ref="65312622"/>
+  <nd ref="65359319"/>
+  <nd ref="65322632"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Sansome Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Sansome"/>
+  <tag k="tiger:name_type" v="St"/>
+ </way>
+ <way id="206591543" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585">
+  <nd ref="2166132745"/>
+  <nd ref="2166132751"/>
+  <nd ref="2166132759"/>
+  <nd ref="2166132733"/>
+  <nd ref="2166132729"/>
+  <nd ref="2166132726"/>
+  <nd ref="2166132723"/>
+  <nd ref="2166132745"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Osgood Place"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591547" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:03Z" user="wegavision" uid="564585">
+  <nd ref="2166132694"/>
+  <nd ref="2166132736"/>
+  <nd ref="2166132742"/>
+  <nd ref="2166132745"/>
+  <nd ref="2166132723"/>
+  <nd ref="2166132726"/>
+  <nd ref="2166132704"/>
+  <nd ref="2166132702"/>
+  <nd ref="2166132698"/>
+  <nd ref="2166132696"/>
+  <nd ref="2166132694"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Bartol Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591545" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585">
+  <nd ref="2166132808"/>
+  <nd ref="2166132810"/>
+  <nd ref="2166132768"/>
+  <nd ref="2166132771"/>
+  <nd ref="2166132757"/>
+  <nd ref="2166132717"/>
+  <nd ref="2166132682"/>
+  <nd ref="2166132678"/>
+  <nd ref="2166132808"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="167289351" visible="true" version="2" changeset="14304240" timestamp="2012-12-17T10:36:59Z" user="tkmedia" uid="183737">
+  <nd ref="1786968780"/>
+  <nd ref="1786968586"/>
+  <nd ref="1776942619"/>
+  <nd ref="1786968776"/>
+  <nd ref="1786968775"/>
+  <nd ref="1786968779"/>
+  <nd ref="1786968777"/>
+  <nd ref="1786968778"/>
+  <nd ref="1786968780"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="206621043" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:15Z" user="wegavision" uid="564585">
+  <nd ref="2166542060"/>
+  <nd ref="2166542070"/>
+  <nd ref="2166542071"/>
+  <nd ref="2166542072"/>
+  <nd ref="2166542061"/>
+  <nd ref="2166542060"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="540"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="52312862" visible="true" version="2" changeset="4120281" timestamp="2010-03-13T23:52:59Z" user="Speight" uid="24452">
+  <nd ref="665607790"/>
+  <nd ref="665607791"/>
+  <nd ref="665607792"/>
+  <nd ref="665607793"/>
+  <nd ref="665607794"/>
+  <nd ref="665607795"/>
+  <nd ref="665607796"/>
+  <nd ref="665607797"/>
+  <nd ref="665607798"/>
+  <nd ref="665607799"/>
+  <nd ref="665607800"/>
+  <nd ref="665607801"/>
+  <nd ref="665607790"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="25372358" visible="true" version="10" changeset="16421782" timestamp="2013-06-04T16:40:41Z" user="jfire" uid="67236">
+  <nd ref="65359314"/>
+  <nd ref="65337375"/>
+  <nd ref="65352120"/>
+  <nd ref="65359317"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Sansome Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Sansome"/>
+  <tag k="tiger:name_type" v="St"/>
+ </way>
+ <way id="8920166" visible="true" version="5" changeset="16781624" timestamp="2013-07-01T18:46:44Z" user="vonvonvon" uid="190493">
+  <nd ref="65352120"/>
+  <nd ref="65352122"/>
+  <nd ref="65305837"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Gold Street"/>
+  <tag k="service" v="alley"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Gold"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="30622802" visible="true" version="1" changeset="849388" timestamp="2009-01-28T15:55:25Z" user="Sarah M" uid="74292">
+  <nd ref="338683940"/>
+  <nd ref="338683941"/>
+  <tag k="addr:interpolation" v="even"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="206591568" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:04Z" user="wegavision" uid="564585">
+  <nd ref="2166132774"/>
+  <nd ref="2166132732"/>
+  <nd ref="2166132719"/>
+  <nd ref="2166132754"/>
+  <nd ref="2166132762"/>
+  <nd ref="2166132774"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="847"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Sansome Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206623944" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585">
+  <nd ref="2166577092"/>
+  <nd ref="2166577091"/>
+  <nd ref="2166577093"/>
+  <nd ref="371039728"/>
+  <nd ref="2166577095"/>
+  <nd ref="2166577090"/>
+  <nd ref="371039729"/>
+  <nd ref="2166577092"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="840"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Sansome Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591559" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:04Z" user="wegavision" uid="564585">
+  <nd ref="2166132633"/>
+  <nd ref="2166132631"/>
+  <nd ref="2166132657"/>
+  <nd ref="2166132659"/>
+  <nd ref="2166132633"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="434"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591550" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:03Z" user="wegavision" uid="564585">
+  <nd ref="2166132804"/>
+  <nd ref="2166132806"/>
+  <nd ref="2166132759"/>
+  <nd ref="2166132751"/>
+  <nd ref="2166132804"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="353"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591546" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:03Z" user="wegavision" uid="564585">
+  <nd ref="2166132700"/>
+  <nd ref="2166132693"/>
+  <nd ref="2166132691"/>
+  <nd ref="2166132688"/>
+  <nd ref="2166132696"/>
+  <nd ref="2166132698"/>
+  <nd ref="2166132700"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Osgood Place"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591549" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:03Z" user="wegavision" uid="564585">
+  <nd ref="2166132810"/>
+  <nd ref="2166132813"/>
+  <nd ref="2166132771"/>
+  <nd ref="2166132768"/>
+  <nd ref="2166132810"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="341, 343"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206621042" visible="true" version="1" changeset="15119563" timestamp="2013-02-22T07:20:15Z" user="wegavision" uid="564585">
+  <nd ref="2166542073"/>
+  <nd ref="2166542063"/>
+  <nd ref="2166542061"/>
+  <nd ref="2166542072"/>
+  <nd ref="2166542073"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="536"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591540" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:02Z" user="wegavision" uid="564585">
+  <nd ref="2166132680"/>
+  <nd ref="2166132655"/>
+  <nd ref="2166132649"/>
+  <nd ref="2166132673"/>
+  <nd ref="2166132680"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Sansome Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591554" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:03Z" user="wegavision" uid="564585">
+  <nd ref="2166132693"/>
+  <nd ref="2166132627"/>
+  <nd ref="2166132625"/>
+  <nd ref="2166132691"/>
+  <nd ref="2166132693"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="430"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206591553" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:03Z" user="wegavision" uid="564585">
+  <nd ref="2166132780"/>
+  <nd ref="2166132782"/>
+  <nd ref="2166132721"/>
+  <nd ref="2166132714"/>
+  <nd ref="2166132780"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="381-391"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="166222997" visible="true" version="3" changeset="16531966" timestamp="2013-06-13T02:58:24Z" user="ansis" uid="1193517">
+  <nd ref="1776942109"/>
+  <nd ref="1776942107"/>
+  <nd ref="1776942110"/>
+  <nd ref="1776942103"/>
+  <nd ref="1776942109"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="building" v="yes"/>
+  <tag k="cuisine" v="pizza"/>
+ </way>
+ <way id="32947691" visible="true" version="1" changeset="347915" timestamp="2009-04-09T09:17:28Z" user="RaffyO" uid="81497">
+  <nd ref="371041571"/>
+  <nd ref="371041572"/>
+  <nd ref="371041573"/>
+  <nd ref="371041574"/>
+  <nd ref="371041576"/>
+  <nd ref="371041577"/>
+  <nd ref="371041578"/>
+  <nd ref="371041579"/>
+  <nd ref="371041580"/>
+  <nd ref="371041581"/>
+  <nd ref="371041583"/>
+  <nd ref="371041584"/>
+  <nd ref="371041585"/>
+  <nd ref="371041571"/>
+  <tag k="building" v="yes"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="32947618" visible="true" version="4" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585">
+  <nd ref="371039595"/>
+  <nd ref="371039597"/>
+  <nd ref="371039598"/>
+  <nd ref="1617478629"/>
+  <nd ref="1617478631"/>
+  <nd ref="371039599"/>
+  <nd ref="371039601"/>
+  <nd ref="371039730"/>
+  <nd ref="371039595"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Battery Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206623941" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585">
+  <nd ref="2166577088"/>
+  <nd ref="371039729"/>
+  <nd ref="2166577090"/>
+  <nd ref="371039595"/>
+  <nd ref="371039597"/>
+  <nd ref="371040828"/>
+  <nd ref="2166577088"/>
+  <tag k="access" v="yes"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="area" v="yes"/>
+  <tag k="building" v="yes"/>
+  <tag k="fee" v="yes"/>
+ </way>
+ <way id="206591571" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:05Z" user="wegavision" uid="564585">
+  <nd ref="2166132645"/>
+  <nd ref="2166132665"/>
+  <nd ref="2166132669"/>
+  <nd ref="2166132676"/>
+  <nd ref="2166132684"/>
+  <nd ref="2166132686"/>
+  <nd ref="2166132674"/>
+  <nd ref="2166132671"/>
+  <nd ref="2166132661"/>
+  <nd ref="2166132653"/>
+  <nd ref="2166132647"/>
+  <nd ref="2166132645"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="920"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Montgomery Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="8919596" visible="true" version="4" changeset="10517939" timestamp="2012-01-28T01:54:12Z" user="saikofish" uid="236172">
+  <nd ref="65345140"/>
+  <nd ref="837099856"/>
+  <nd ref="65345142"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Dunnes Alley"/>
+  <tag k="service" v="alley"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Dunnes"/>
+  <tag k="tiger:name_type" v="Aly"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281074"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="32947721" visible="true" version="1" changeset="347915" timestamp="2009-04-09T09:19:02Z" user="RaffyO" uid="81497">
+  <nd ref="371042026"/>
+  <nd ref="371042027"/>
+  <nd ref="371042029"/>
+  <nd ref="371042030"/>
+  <nd ref="371042026"/>
+  <tag k="building" v="yes"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="32014834" visible="true" version="2" changeset="789955" timestamp="2009-03-11T17:55:00Z" user="Sarah M" uid="74292">
+  <nd ref="359089063"/>
+  <nd ref="359089064"/>
+  <tag k="addr:interpolation" v="even"/>
+  <tag k="addr:street" v="Prescott Ct"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+ </way>
+ <way id="206582197" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:50Z" user="wegavision" uid="564585">
+  <nd ref="2166014711"/>
+  <nd ref="2166014712"/>
+  <nd ref="2166014703"/>
+  <nd ref="2166014698"/>
+  <nd ref="2166014711"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="483-487"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="224384020" visible="true" version="1" changeset="16421782" timestamp="2013-06-04T16:40:09Z" user="jfire" uid="67236">
+  <nd ref="65359317"/>
+  <nd ref="65349371"/>
+  <nd ref="65305842"/>
+  <nd ref="65318425"/>
+  <nd ref="2166542058"/>
+  <nd ref="65372829"/>
+  <nd ref="65372831"/>
+  <nd ref="65372833"/>
+  <nd ref="65355192"/>
+  <nd ref="65328719"/>
+  <nd ref="65372836"/>
+  <nd ref="65371299"/>
+  <nd ref="65372839"/>
+  <nd ref="65362002"/>
+  <nd ref="65327528"/>
+  <nd ref="65332847"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Pacific Avenue"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Pacific"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:zip_left" v="94118"/>
+  <tag k="tiger:zip_right" v="94118"/>
+ </way>
+ <way id="206623946" visible="true" version="1" changeset="15119912" timestamp="2013-02-22T07:57:58Z" user="wegavision" uid="564585">
+  <nd ref="2166577119"/>
+  <nd ref="2166577097"/>
+  <nd ref="2166577094"/>
+  <nd ref="2166577117"/>
+  <nd ref="2166577119"/>
+  <tag k="landuse" v="brownfield"/>
+ </way>
+ <way id="8916941" visible="true" version="4" changeset="9781301" timestamp="2011-11-09T13:59:15Z" user="StellanL" uid="28775">
+  <nd ref="65307046"/>
+  <nd ref="65299293"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Prescott Court"/>
+  <tag k="service" v="alley"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="San Francisco, CA"/>
+  <tag k="tiger:name_base" v="Prescott"/>
+  <tag k="tiger:name_type" v="Ct"/>
+  <tag k="tiger:reviewed" v="yes"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070809"/>
+  <tag k="tiger:tlid" v="192281113"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-4ddcfcfe-e298-4ca3-a789-35779f3bf445"/>
+  <tag k="tiger:zip_left" v="94133"/>
+  <tag k="tiger:zip_right" v="94133"/>
+ </way>
+ <way id="206591564" visible="true" version="1" changeset="15117683" timestamp="2013-02-21T22:39:04Z" user="wegavision" uid="564585">
+  <nd ref="2166132625"/>
+  <nd ref="2166132622"/>
+  <nd ref="2166132645"/>
+  <nd ref="2166132647"/>
+  <nd ref="2166132651"/>
+  <nd ref="2166132625"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="450-490"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Pacific Avenue"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="206582195" visible="true" version="1" changeset="15117133" timestamp="2013-02-21T21:38:50Z" user="wegavision" uid="564585">
+  <nd ref="2166014713"/>
+  <nd ref="2166014715"/>
+  <nd ref="2166014702"/>
+  <nd ref="2166014700"/>
+  <nd ref="2166014713"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="473"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Broadway Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="32947702" visible="true" version="2" changeset="10582205" timestamp="2012-02-04T09:19:59Z" user="saikofish" uid="236172">
+  <nd ref="371041696"/>
+  <nd ref="371041051"/>
+  <nd ref="371041054"/>
+  <nd ref="371041699"/>
+  <nd ref="371041696"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="206582186" visible="true" version="2" changeset="15119563" timestamp="2013-02-22T07:20:16Z" user="wegavision" uid="564585">
+  <nd ref="2166014690"/>
+  <nd ref="2166014691"/>
+  <nd ref="2166014685"/>
+  <nd ref="2166014683"/>
+  <nd ref="2166014690"/>
+  <tag k="addr:city" v="San Francicsco"/>
+  <tag k="addr:housenumber" v="1030"/>
+  <tag k="addr:postcode" v="94113"/>
+  <tag k="addr:state" v="CA"/>
+  <tag k="addr:street" v="Kearny Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <relation id="109668" visible="true" version="170" changeset="17132959" timestamp="2013-07-29T01:00:49Z" user="KindredCoda" uid="14293">
+  <member type="way" ref="8915229" role="forward"/>
+  <member type="way" ref="8916435" role="forward"/>
+  <member type="way" ref="8916508" role="forward"/>
+  <member type="way" ref="8917085" role="reverse"/>
+  <member type="way" ref="148899888" role="reverse"/>
+  <member type="way" ref="8917543" role="forward"/>
+  <member type="way" ref="226907888" role="forward"/>
+  <member type="way" ref="225840323" role="forward"/>
+  <member type="way" ref="89905661" role="forward"/>
+  <member type="way" ref="162931668" role="reverse"/>
+  <member type="way" ref="215848128" role="reverse"/>
+  <member type="way" ref="8917609" role="reverse"/>
+  <member type="way" ref="8917611" role="reverse"/>
+  <member type="way" ref="137812985" role="reverse"/>
+  <member type="way" ref="137812984" role="reverse"/>
+  <member type="way" ref="8917690" role="reverse"/>
+  <member type="way" ref="8918445" role="forward"/>
+  <member type="way" ref="8919507" role="forward"/>
+  <member type="way" ref="110365000" role="forward"/>
+  <member type="way" ref="8919594" role="forward"/>
+  <member type="way" ref="8919899" role="forward"/>
+  <member type="way" ref="8920124" role="forward"/>
+  <member type="way" ref="8920391" role="forward"/>
+  <member type="way" ref="8920432" role="reverse"/>
+  <member type="way" ref="143612439" role="reverse"/>
+  <member type="way" ref="143612432" role="reverse"/>
+  <member type="way" ref="215848124" role="reverse"/>
+  <member type="way" ref="8922015" role="forward"/>
+  <member type="way" ref="8922234" role="forward"/>
+  <member type="way" ref="88466052" role="forward"/>
+  <member type="way" ref="8922263" role="forward"/>
+  <member type="way" ref="88463826" role="forward"/>
+  <member type="way" ref="23825837" role="forward"/>
+  <member type="way" ref="89770058" role=""/>
+  <member type="way" ref="91011091" role="forward"/>
+  <member type="way" ref="91011090" role="forward"/>
+  <member type="way" ref="24335220" role="forward"/>
+  <member type="way" ref="24335463" role="forward"/>
+  <member type="way" ref="133856248" role="forward"/>
+  <member type="way" ref="24335466" role="forward"/>
+  <member type="way" ref="26278308" role="reverse"/>
+  <member type="way" ref="26378124" role="forward"/>
+  <member type="way" ref="26943537" role="reverse"/>
+  <member type="way" ref="26943549" role="forward"/>
+  <member type="way" ref="27167713" role="forward"/>
+  <member type="way" ref="44671299" role="forward"/>
+  <member type="way" ref="44671300" role="forward"/>
+  <member type="way" ref="27239375" role="forward"/>
+  <member type="way" ref="133755901" role="forward"/>
+  <member type="way" ref="27239380" role="reverse"/>
+  <member type="way" ref="225847506" role="reverse"/>
+  <member type="way" ref="225847504" role="reverse"/>
+  <member type="way" ref="133781705" role="reverse"/>
+  <member type="way" ref="27396665" role="forward"/>
+  <member type="way" ref="27397715" role="forward"/>
+  <member type="way" ref="27640227" role="forward"/>
+  <member type="way" ref="28136772" role=""/>
+  <member type="way" ref="133733584" role=""/>
+  <member type="way" ref="137812997" role="reverse"/>
+  <member type="way" ref="137813001" role="reverse"/>
+  <member type="way" ref="137812991" role="reverse"/>
+  <member type="way" ref="28136777" role="reverse"/>
+  <member type="way" ref="30586906" role="forward"/>
+  <member type="way" ref="133748361" role="forward"/>
+  <member type="way" ref="231656264" role="forward"/>
+  <member type="way" ref="225518498" role="forward"/>
+  <member type="way" ref="30758073" role="forward"/>
+  <member type="way" ref="30758376" role="forward"/>
+  <member type="way" ref="30758414" role="forward"/>
+  <member type="way" ref="30758418" role="forward"/>
+  <member type="way" ref="30897687" role="reverse"/>
+  <member type="way" ref="30902971" role="reverse"/>
+  <member type="way" ref="31148243" role="reverse"/>
+  <member type="way" ref="31148416" role="forward"/>
+  <member type="way" ref="32004419" role="forward"/>
+  <member type="way" ref="32928422" role="forward"/>
+  <member type="way" ref="225840326" role="forward"/>
+  <member type="way" ref="133748363" role="forward"/>
+  <member type="way" ref="133748369" role="forward"/>
+  <member type="way" ref="32928673" role="forward"/>
+  <member type="way" ref="133734417" role="forward"/>
+  <member type="way" ref="133734416" role="forward"/>
+  <member type="way" ref="32928681" role="forward"/>
+  <member type="way" ref="32928777" role="reverse"/>
+  <member type="way" ref="32928784" role="reverse"/>
+  <member type="way" ref="87235194" role="reverse"/>
+  <member type="way" ref="87235212" role="reverse"/>
+  <member type="way" ref="32928792" role="reverse"/>
+  <member type="way" ref="32928798" role="reverse"/>
+  <member type="way" ref="32928893" role="forward"/>
+  <member type="way" ref="32928954" role="forward"/>
+  <member type="way" ref="32928980" role="reverse"/>
+  <member type="way" ref="32928982" role="forward"/>
+  <member type="way" ref="136844195" role="forward"/>
+  <member type="way" ref="133735888" role="forward"/>
+  <member type="way" ref="32929105" role="forward"/>
+  <member type="way" ref="32929131" role="forward"/>
+  <member type="way" ref="32929298" role="reverse"/>
+  <member type="way" ref="32929414" role="forward"/>
+  <member type="way" ref="32929423" role="reverse"/>
+  <member type="way" ref="32929982" role="forward"/>
+  <member type="way" ref="32930020" role="forward"/>
+  <member type="way" ref="32930401" role="forward"/>
+  <member type="way" ref="32931798" role="forward"/>
+  <member type="way" ref="34129168" role="reverse"/>
+  <member type="way" ref="34129169" role="reverse"/>
+  <member type="way" ref="45566316" role="reverse"/>
+  <member type="way" ref="48570001" role="forward"/>
+  <member type="way" ref="48570004" role="forward"/>
+  <member type="way" ref="48569999" role="forward"/>
+  <member type="way" ref="123867457" role="forward"/>
+  <member type="way" ref="123867455" role="forward"/>
+  <member type="way" ref="49847744" role="forward"/>
+  <member type="way" ref="133743863" role="forward"/>
+  <member type="way" ref="133743862" role="forward"/>
+  <member type="way" ref="133743864" role="forward"/>
+  <member type="way" ref="8917613" role="reverse"/>
+  <member type="way" ref="60501619" role="reverse"/>
+  <member type="way" ref="60501621" role="reverse"/>
+  <member type="way" ref="60501618" role="reverse"/>
+  <member type="way" ref="59762431" role="forward"/>
+  <member type="way" ref="27146036" role="forward"/>
+  <member type="way" ref="91181775" role="forward"/>
+  <member type="way" ref="27054213" role="forward"/>
+  <member type="way" ref="91181774" role="forward"/>
+  <member type="way" ref="8919020" role="forward"/>
+  <member type="way" ref="88572905" role="forward"/>
+  <member type="way" ref="175507524" role="forward"/>
+  <member type="way" ref="175507523" role="forward"/>
+  <member type="way" ref="91181771" role="forward"/>
+  <member type="way" ref="91181769" role="forward"/>
+  <member type="way" ref="88572943" role="forward"/>
+  <member type="way" ref="8920338" role="forward"/>
+  <member type="way" ref="225847523" role="forward"/>
+  <member type="way" ref="26988030" role="forward"/>
+  <member type="way" ref="27167302" role="forward"/>
+  <member type="way" ref="91181767" role="forward"/>
+  <member type="way" ref="225847517" role="forward"/>
+  <member type="way" ref="8919246" role="forward"/>
+  <member type="way" ref="84654229" role="forward"/>
+  <member type="way" ref="84733284" role="forward"/>
+  <member type="way" ref="23880810" role="forward"/>
+  <member type="way" ref="91181765" role="forward"/>
+  <member type="way" ref="91181763" role="forward"/>
+  <member type="way" ref="224200969" role="forward"/>
+  <member type="way" ref="30831490" role="forward"/>
+  <member type="way" ref="86303747" role="forward"/>
+  <member type="way" ref="86303763" role="forward"/>
+  <member type="way" ref="28841118" role="forward"/>
+  <member type="way" ref="111586256" role="forward"/>
+  <member type="way" ref="111586253" role="forward"/>
+  <member type="way" ref="111586257" role="forward"/>
+  <member type="way" ref="111586255" role="forward"/>
+  <member type="way" ref="111586258" role="forward"/>
+  <member type="way" ref="28841119" role="forward"/>
+  <member type="way" ref="111586250" role="forward"/>
+  <member type="way" ref="111586254" role="forward"/>
+  <member type="way" ref="28841122" role="forward"/>
+  <member type="way" ref="29023741" role="forward"/>
+  <member type="way" ref="91181759" role="forward"/>
+  <member type="way" ref="100400946" role="forward"/>
+  <member type="way" ref="91181760" role="forward"/>
+  <member type="way" ref="100400941" role="forward"/>
+  <member type="way" ref="144346316" role="forward"/>
+  <member type="way" ref="133376105" role="forward"/>
+  <member type="way" ref="29059494" role="forward"/>
+  <member type="way" ref="29059495" role="forward"/>
+  <member type="way" ref="91182066" role="forward"/>
+  <member type="way" ref="91182068" role="reverse"/>
+  <member type="way" ref="91182069" role="forward"/>
+  <member type="way" ref="91182062" role="forward"/>
+  <member type="way" ref="91185877" role="forward"/>
+  <member type="way" ref="30030101" role="forward"/>
+  <member type="way" ref="87376669" role="forward"/>
+  <member type="way" ref="28808425" role="forward"/>
+  <member type="way" ref="91185869" role="forward"/>
+  <member type="way" ref="148846999" role="forward"/>
+  <member type="way" ref="143666209" role="reverse"/>
+  <member type="way" ref="143666208" role="reverse"/>
+  <member type="way" ref="8917984" role="reverse"/>
+  <member type="way" ref="91185861" role="forward"/>
+  <member type="way" ref="27570802" role="forward"/>
+  <member type="way" ref="26987999" role="forward"/>
+  <member type="way" ref="91185847" role="forward"/>
+  <member type="way" ref="225847502" role="forward"/>
+  <member type="way" ref="87297165" role="reverse"/>
+  <member type="way" ref="133781783" role="reverse"/>
+  <member type="way" ref="87297168" role="forward"/>
+  <member type="way" ref="204967525" role="forward"/>
+  <member type="way" ref="204967526" role="forward"/>
+  <member type="way" ref="204967527" role="forward"/>
+  <member type="way" ref="204967524" role="forward"/>
+  <member type="way" ref="85644947" role="forward"/>
+  <member type="way" ref="85644937" role="forward"/>
+  <member type="way" ref="27041250" role="forward"/>
+  <member type="way" ref="43250798" role="forward"/>
+  <member type="way" ref="43250797" role="forward"/>
+  <member type="way" ref="8916287" role="forward"/>
+  <member type="way" ref="28318574" role="forward"/>
+  <member type="way" ref="91187865" role="reverse"/>
+  <member type="way" ref="8916458" role="forward"/>
+  <member type="way" ref="91187856" role="reverse"/>
+  <member type="way" ref="85562579" role="forward"/>
+  <member type="way" ref="85562538" role="forward"/>
+  <member type="way" ref="91190525" role="reverse"/>
+  <member type="way" ref="91190527" role="forward"/>
+  <member type="way" ref="91190526" role="reverse"/>
+  <member type="way" ref="27041278" role="reverse"/>
+  <member type="way" ref="27041291" role="forward"/>
+  <member type="way" ref="133376112" role="forward"/>
+  <member type="way" ref="27041340" role="reverse"/>
+  <member type="way" ref="8917062" role="forward"/>
+  <member type="way" ref="91190520" role="reverse"/>
+  <member type="way" ref="133856265" role="reverse"/>
+  <member type="way" ref="91190521" role="reverse"/>
+  <member type="way" ref="91190522" role="reverse"/>
+  <member type="way" ref="91517994" role="forward"/>
+  <member type="way" ref="8916572" role="forward"/>
+  <member type="way" ref="225840350" role="forward"/>
+  <member type="way" ref="225840349" role="forward"/>
+  <member type="way" ref="27553432" role=""/>
+  <member type="way" ref="60862882" role="reverse"/>
+  <member type="way" ref="26965917" role="forward"/>
+  <member type="way" ref="26965876" role="forward"/>
+  <member type="way" ref="8920372" role="forward"/>
+  <member type="way" ref="8917061" role="reverse"/>
+  <member type="way" ref="30257195" role="reverse"/>
+  <member type="way" ref="162324913" role="reverse"/>
+  <member type="way" ref="27031206" role="reverse"/>
+  <member type="way" ref="133376111" role="reverse"/>
+  <member type="way" ref="8919521" role=""/>
+  <member type="way" ref="8918046" role=""/>
+  <member type="way" ref="106042063" role=""/>
+  <member type="way" ref="27040861" role=""/>
+  <member type="way" ref="91518484" role="reverse"/>
+  <member type="way" ref="103646974" role="forward"/>
+  <member type="way" ref="162802658" role="forward"/>
+  <member type="way" ref="103755278" role="forward"/>
+  <member type="way" ref="137812981" role=""/>
+  <member type="way" ref="137812982" role=""/>
+  <member type="way" ref="30035754" role="forward"/>
+  <tag k="name" v="49 Mile Scenic Drive"/>
+  <tag k="route" v="scenic"/>
+  <tag k="type" v="route"/>
+  <tag k="url" v="http://en.wikipedia.org/wiki/49-Mile_Scenic_Drive"/>
+ </relation>
+ <relation id="2996793" visible="true" version="2" changeset="17132959" timestamp="2013-07-29T01:00:49Z" user="KindredCoda" uid="14293">
+  <member type="way" ref="192552506" role=""/>
+  <member type="way" ref="225518510" role=""/>
+  <member type="way" ref="225518508" role=""/>
+  <member type="way" ref="231656264" role=""/>
+  <member type="way" ref="225518501" role=""/>
+  <member type="way" ref="155373676" role=""/>
+  <member type="way" ref="223916565" role=""/>
+  <member type="way" ref="27029219" role=""/>
+  <member type="way" ref="191296172" role=""/>
+  <member type="way" ref="25657409" role=""/>
+  <member type="way" ref="88559691" role=""/>
+  <member type="way" ref="88597577" role=""/>
+  <member type="way" ref="224384018" role=""/>
+  <member type="way" ref="224200967" role=""/>
+  <member type="way" ref="133755922" role=""/>
+  <member type="way" ref="8920734" role=""/>
+  <member type="way" ref="224316527" role=""/>
+  <member type="way" ref="25372358" role=""/>
+  <member type="way" ref="224384020" role=""/>
+  <member type="way" ref="24335485" role=""/>
+  <member type="way" ref="24335483" role=""/>
+  <member type="way" ref="27050841" role=""/>
+  <member type="way" ref="224384021" role=""/>
+  <tag k="from" v="24th St &amp; Mission St"/>
+  <tag k="name" v="12-Folsom/Pacific: Inbound to Russian Hill"/>
+  <tag k="operator" v="San Francisco Municipal Railway"/>
+  <tag k="ref" v="12"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="Pacific Ave &amp; Van Ness Ave"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="32451" visible="true" version="38" changeset="16568136" timestamp="2013-06-15T20:24:46Z" user="jfire" uid="67236">
+  <member type="way" ref="24335466" role=""/>
+  <member type="way" ref="24335467" role=""/>
+  <member type="way" ref="8916367" role=""/>
+  <member type="way" ref="24335468" role=""/>
+  <member type="way" ref="224199012" role=""/>
+  <member type="way" ref="224199011" role=""/>
+  <member type="way" ref="225840319" role=""/>
+  <member type="way" ref="24335470" role=""/>
+  <member type="way" ref="8916065" role=""/>
+  <member type="way" ref="133856256" role=""/>
+  <member type="way" ref="133856255" role=""/>
+  <member type="way" ref="86331207" role=""/>
+  <member type="way" ref="86331222" role=""/>
+  <member type="way" ref="107288562" role=""/>
+  <member type="way" ref="86331251" role=""/>
+  <member type="way" ref="24335474" role=""/>
+  <member type="way" ref="166624527" role=""/>
+  <member type="way" ref="166624528" role=""/>
+  <member type="way" ref="24335476" role=""/>
+  <member type="way" ref="24335477" role=""/>
+  <member type="way" ref="24335480" role=""/>
+  <member type="way" ref="225516725" role=""/>
+  <member type="way" ref="225516724" role=""/>
+  <member type="way" ref="24335481" role=""/>
+  <member type="way" ref="85644941" role=""/>
+  <member type="way" ref="224384021" role=""/>
+  <member type="way" ref="27050841" role=""/>
+  <member type="way" ref="24335483" role=""/>
+  <member type="way" ref="24335485" role="forward"/>
+  <member type="way" ref="24335486" role="forward"/>
+  <member type="way" ref="133376113" role="forward"/>
+  <member type="way" ref="26938257" role="forward"/>
+  <member type="way" ref="26938247" role="forward"/>
+  <member type="way" ref="87376660" role=""/>
+  <member type="way" ref="87376695" role=""/>
+  <member type="way" ref="87376682" role=""/>
+  <member type="way" ref="87376679" role=""/>
+  <member type="way" ref="87376703" role=""/>
+  <member type="way" ref="87376675" role=""/>
+  <member type="way" ref="224384010" role=""/>
+  <member type="way" ref="8918994" role=""/>
+  <tag k="cycle_network" v="US:CA:SF"/>
+  <tag k="network" v="lcn"/>
+  <tag k="ref" v="10"/>
+  <tag k="route" v="bicycle"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="1299861" visible="true" version="1" changeset="6516180" timestamp="2010-12-02T16:01:08Z" user="Gregory Arenius" uid="116029">
+  <member type="node" ref="65333988" role="via"/>
+  <member type="way" ref="29059461" role="to"/>
+  <member type="way" ref="87376675" role="from"/>
+  <tag k="name" v="No Left from Broadway Westbound to Kearny"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="2981333" visible="true" version="6" changeset="16568455" timestamp="2013-06-15T20:49:45Z" user="jfire" uid="67236">
+  <member type="way" ref="224384023" role=""/>
+  <member type="way" ref="224384048" role=""/>
+  <member type="way" ref="24547841" role=""/>
+  <member type="way" ref="24547840" role=""/>
+  <member type="way" ref="133781849" role=""/>
+  <member type="way" ref="224384049" role=""/>
+  <member type="way" ref="224384026" role=""/>
+  <member type="way" ref="224384058" role=""/>
+  <member type="way" ref="224384036" role=""/>
+  <member type="way" ref="225847539" role=""/>
+  <member type="way" ref="224384055" role=""/>
+  <member type="way" ref="8917776" role=""/>
+  <member type="way" ref="8920710" role=""/>
+  <member type="way" ref="224384051" role=""/>
+  <member type="way" ref="224384038" role=""/>
+  <member type="way" ref="224384046" role=""/>
+  <member type="way" ref="224384047" role=""/>
+  <member type="way" ref="29482568" role=""/>
+  <member type="way" ref="29482562" role=""/>
+  <member type="way" ref="29482560" role=""/>
+  <member type="way" ref="29482558" role=""/>
+  <member type="way" ref="224384012" role=""/>
+  <member type="way" ref="224384042" role=""/>
+  <member type="way" ref="8916338" role=""/>
+  <member type="way" ref="218146840" role=""/>
+  <member type="way" ref="133735125" role=""/>
+  <member type="way" ref="224384039" role=""/>
+  <member type="way" ref="84823308" role=""/>
+  <member type="way" ref="133755923" role=""/>
+  <member type="way" ref="143617587" role=""/>
+  <member type="way" ref="143617589" role=""/>
+  <member type="way" ref="111550911" role=""/>
+  <member type="way" ref="88559680" role=""/>
+  <member type="way" ref="88559661" role=""/>
+  <member type="way" ref="225518512" role=""/>
+  <member type="way" ref="88559691" role=""/>
+  <member type="way" ref="88597577" role=""/>
+  <member type="way" ref="224384018" role=""/>
+  <member type="way" ref="224200967" role=""/>
+  <member type="way" ref="133755922" role=""/>
+  <member type="way" ref="8920734" role=""/>
+  <member type="way" ref="224316527" role=""/>
+  <member type="way" ref="25372358" role=""/>
+  <member type="way" ref="224384020" role=""/>
+  <member type="way" ref="24335485" role=""/>
+  <member type="way" ref="24335483" role=""/>
+  <member type="way" ref="27050841" role=""/>
+  <member type="way" ref="224384021" role=""/>
+  <member type="way" ref="85644961" role=""/>
+  <member type="way" ref="224384016" role=""/>
+  <member type="way" ref="30832455" role=""/>
+  <member type="way" ref="224941798" role=""/>
+  <member type="way" ref="224941797" role=""/>
+  <member type="way" ref="224941795" role=""/>
+  <member type="way" ref="225516710" role=""/>
+  <member type="way" ref="224316519" role=""/>
+  <tag k="from" v="24th Street &amp; Potrero Avenue"/>
+  <tag k="name" v="10-Townsend: Inbound to Pacific Heights"/>
+  <tag k="operator" v="San Francisco Municipal Railway"/>
+  <tag k="ref" v="10"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="Jackson St &amp; Webster St"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="1299866" visible="true" version="1" changeset="6516180" timestamp="2010-12-02T16:01:10Z" user="Gregory Arenius" uid="116029">
+  <member type="way" ref="87376675" role="from"/>
+  <member type="node" ref="65305848" role="via"/>
+  <member type="way" ref="87376697" role="to"/>
+  <tag k="day_off" v="Saturday"/>
+  <tag k="day_on" v="Monday"/>
+  <tag k="hour_off" v="18:00"/>
+  <tag k="hour_on" v="16:00"/>
+  <tag k="name" v="No Left from Broadway Eastbound to Montgomery during Rush hour"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="2996794" visible="true" version="1" changeset="16531950" timestamp="2013-06-13T02:53:27Z" user="jfire" uid="67236">
+  <member type="way" ref="85644961" role=""/>
+  <member type="way" ref="225518504" role=""/>
+  <member type="way" ref="225518506" role=""/>
+  <member type="way" ref="24335483" role=""/>
+  <member type="way" ref="24335485" role=""/>
+  <member type="way" ref="24335486" role=""/>
+  <member type="way" ref="87376660" role=""/>
+  <member type="way" ref="87376695" role=""/>
+  <member type="way" ref="87376682" role=""/>
+  <member type="way" ref="87376679" role=""/>
+  <member type="way" ref="87376703" role=""/>
+  <member type="way" ref="87376675" role=""/>
+  <member type="way" ref="224384010" role=""/>
+  <member type="way" ref="48211230" role=""/>
+  <member type="way" ref="91181772" role=""/>
+  <member type="way" ref="224316527" role=""/>
+  <member type="way" ref="8920734" role=""/>
+  <member type="way" ref="224384027" role=""/>
+  <member type="way" ref="224384018" role=""/>
+  <member type="way" ref="88597577" role=""/>
+  <member type="way" ref="88559691" role=""/>
+  <member type="way" ref="225518512" role=""/>
+  <member type="way" ref="88559702" role=""/>
+  <member type="way" ref="25758528" role=""/>
+  <member type="way" ref="143617584" role=""/>
+  <member type="way" ref="143617585" role=""/>
+  <member type="way" ref="25758513" role=""/>
+  <member type="way" ref="27029246" role=""/>
+  <member type="way" ref="191296172" role=""/>
+  <member type="way" ref="27029219" role=""/>
+  <member type="way" ref="223916565" role=""/>
+  <member type="way" ref="155373676" role=""/>
+  <member type="way" ref="225518496" role=""/>
+  <member type="way" ref="225518510" role=""/>
+  <member type="way" ref="192552506" role=""/>
+  <tag k="from" v="Pacific Ave &amp; Van Ness Ave"/>
+  <tag k="name" v="12-Folsom/Pacific: Outbound to The Mission"/>
+  <tag k="operator" v="San Francisco Municipal Railway"/>
+  <tag k="ref" v="12"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="24th St &amp; Mission St"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="32477" visible="true" version="36" changeset="16531950" timestamp="2013-06-13T02:53:30Z" user="jfire" uid="67236">
+  <member type="way" ref="88559680" role=""/>
+  <member type="way" ref="224384059" role=""/>
+  <member type="way" ref="88559661" role=""/>
+  <member type="way" ref="225518512" role=""/>
+  <member type="way" ref="88559691" role=""/>
+  <member type="way" ref="88597577" role=""/>
+  <member type="way" ref="133755922" role="forward"/>
+  <member type="way" ref="8920734" role="forward"/>
+  <member type="way" ref="224316527" role="forward"/>
+  <member type="way" ref="27054195" role="forward"/>
+  <member type="way" ref="91181773" role="forward"/>
+  <member type="way" ref="27054213" role="forward"/>
+  <member type="way" ref="27054209" role="forward"/>
+  <member type="way" ref="27054205" role="forward"/>
+  <member type="way" ref="8922640" role=""/>
+  <member type="way" ref="91185877" role=""/>
+  <member type="way" ref="30030101" role="forward"/>
+  <member type="way" ref="87376669" role="forward"/>
+  <member type="way" ref="87376672" role="forward"/>
+  <member type="way" ref="48211960" role="forward"/>
+  <member type="way" ref="48211487" role=""/>
+  <member type="way" ref="48211828" role="forward"/>
+  <member type="way" ref="148874363" role="forward"/>
+  <member type="way" ref="148874364" role="forward"/>
+  <member type="way" ref="30030100" role="forward"/>
+  <member type="way" ref="148846995" role="forward"/>
+  <member type="way" ref="148846996" role="forward"/>
+  <member type="way" ref="30029708" role=""/>
+  <member type="way" ref="30029866" role="forward"/>
+  <member type="way" ref="30029867" role="forward"/>
+  <member type="way" ref="30029846" role=""/>
+  <tag k="cycle_network" v="US:CA:SF"/>
+  <tag k="FIXME" v="no left turn from Market in either direction"/>
+  <tag k="network" v="lcn"/>
+  <tag k="ref" v="11"/>
+  <tag k="route" v="bicycle"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2981334" visible="true" version="4" changeset="16568455" timestamp="2013-06-15T20:49:46Z" user="jfire" uid="67236">
+  <member type="way" ref="224384029" role=""/>
+  <member type="way" ref="225516722" role=""/>
+  <member type="way" ref="225516723" role=""/>
+  <member type="way" ref="47108401" role=""/>
+  <member type="way" ref="30035688" role=""/>
+  <member type="way" ref="224384033" role=""/>
+  <member type="way" ref="27050841" role=""/>
+  <member type="way" ref="24335483" role=""/>
+  <member type="way" ref="24335485" role=""/>
+  <member type="way" ref="24335486" role=""/>
+  <member type="way" ref="87376660" role=""/>
+  <member type="way" ref="87376695" role=""/>
+  <member type="way" ref="87376682" role=""/>
+  <member type="way" ref="87376679" role=""/>
+  <member type="way" ref="87376703" role=""/>
+  <member type="way" ref="87376675" role=""/>
+  <member type="way" ref="224384010" role=""/>
+  <member type="way" ref="48211230" role=""/>
+  <member type="way" ref="91181772" role=""/>
+  <member type="way" ref="224316527" role=""/>
+  <member type="way" ref="8920734" role=""/>
+  <member type="way" ref="224384027" role=""/>
+  <member type="way" ref="224384018" role=""/>
+  <member type="way" ref="88597577" role=""/>
+  <member type="way" ref="88559691" role=""/>
+  <member type="way" ref="225518512" role=""/>
+  <member type="way" ref="88559661" role=""/>
+  <member type="way" ref="88559680" role=""/>
+  <member type="way" ref="111550911" role=""/>
+  <member type="way" ref="143617589" role=""/>
+  <member type="way" ref="143617587" role=""/>
+  <member type="way" ref="133755923" role=""/>
+  <member type="way" ref="84823308" role=""/>
+  <member type="way" ref="221434105" role=""/>
+  <member type="way" ref="221434101" role=""/>
+  <member type="way" ref="221434104" role=""/>
+  <member type="way" ref="221434103" role=""/>
+  <member type="way" ref="218146865" role=""/>
+  <member type="way" ref="218146840" role=""/>
+  <member type="way" ref="8916338" role=""/>
+  <member type="way" ref="224384025" role=""/>
+  <member type="way" ref="224384044" role=""/>
+  <member type="way" ref="29482558" role=""/>
+  <member type="way" ref="29482560" role=""/>
+  <member type="way" ref="29482562" role=""/>
+  <member type="way" ref="29482568" role=""/>
+  <member type="way" ref="224384047" role=""/>
+  <member type="way" ref="224384009" role=""/>
+  <member type="way" ref="8920710" role=""/>
+  <member type="way" ref="8917776" role=""/>
+  <member type="way" ref="224384055" role=""/>
+  <member type="way" ref="225847539" role=""/>
+  <member type="way" ref="224384036" role=""/>
+  <member type="way" ref="224384058" role=""/>
+  <member type="way" ref="224384057" role=""/>
+  <member type="way" ref="110472619" role=""/>
+  <member type="way" ref="133781849" role=""/>
+  <member type="way" ref="24547840" role=""/>
+  <member type="way" ref="24547841" role=""/>
+  <member type="way" ref="8919650" role=""/>
+  <member type="way" ref="224384054" role=""/>
+  <tag k="from" v="Jackson St &amp; Fillmore St"/>
+  <tag k="name" v="10-Townsend: Outbound to San Francisco General Hospital"/>
+  <tag k="operator" v="San Francisco Municipal Railway"/>
+  <tag k="ref" v="10"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="23rd St &amp; Utah St"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2996795" visible="true" version="1" changeset="16531950" timestamp="2013-06-13T02:53:28Z" user="jfire" uid="67236">
+  <member type="relation" ref="2996793" role=""/>
+  <member type="relation" ref="2996794" role=""/>
+  <tag k="name" v="12-Folsom/Pacific"/>
+  <tag k="operator" v="San Francisco Municipal Railway"/>
+  <tag k="ref" v="12"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="2981335" visible="true" version="1" changeset="16421782" timestamp="2013-06-04T16:40:17Z" user="jfire" uid="67236">
+  <member type="relation" ref="2981333" role=""/>
+  <member type="relation" ref="2981334" role=""/>
+  <tag k="name" v="10-Townsend"/>
+  <tag k="operator" v="San Francisco Municipal Railway"/>
+  <tag k="ref" v="10"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+</osm>
