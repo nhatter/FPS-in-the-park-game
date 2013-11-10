@@ -2,6 +2,10 @@
 using System.Collections;
 
 public class Weapon : MonoBehaviour {
+	GameObject soldier;
+	GameObject casingEject;
+	float oldCasingEjectMaxEmission;
+	
 	public AudioClip fireSound;
 	public AudioClip finishedFireSound;
 	public AudioClip singleShotSound;
@@ -16,6 +20,10 @@ public class Weapon : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
+		soldier = GameObject.Find("Soldier");
+		casingEject = GameObject.Find("CasingEject");
+		oldCasingEjectMaxEmission = casingEject.particleEmitter.maxEmission;
+		
 		emitters = GetComponentsInChildren<ParticleEmitter>();
 	}
 	
@@ -55,6 +63,8 @@ public class Weapon : MonoBehaviour {
 			if(isFireSoundDue) {
 				isFireSoundDue = false;
 				audio.PlayOneShot(singleShotSound);
+				casingEject.particleEmitter.maxEmission = 1;
+				casingEject.particleEmitter.Emit();
 			}
 			
 			loopFireTimer = 0;
@@ -67,6 +77,8 @@ public class Weapon : MonoBehaviour {
 		foreach(ParticleEmitter emitter in emitters) {
 			emitter.emit = true;
 		}
+		
+		casingEject.particleEmitter.maxEmission = oldCasingEjectMaxEmission;
 	}
 	
 	void noEmit() {
