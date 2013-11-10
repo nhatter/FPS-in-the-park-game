@@ -61,6 +61,13 @@ public class Weapon : MonoBehaviour {
 				soldier.animation.Play("StandingFire");
 				loopFireTimer += Time.deltaTime;
 			} else {
+				if(!hasPlayedFinishedFireSound && !hasFinishedFiring) {
+					audio.loop = false;
+					audio.PlayOneShot(finishedFireSound);
+					loopFireTimer = 0;
+					hasPlayedFinishedFireSound = true;
+				}	
+					
 				audio.loop = false;
 				isFireSoundDue = true;
 				noEmit();
@@ -68,7 +75,7 @@ public class Weapon : MonoBehaviour {
 				autoFireTimer = 0;
 			}
 		} else {		
-			if(!hasPlayedFinishedFireSound) {
+			if(!hasPlayedFinishedFireSound && !hasFinishedFiring) {
 				audio.loop = false;
 				audio.PlayOneShot(finishedFireSound);
 				loopFireTimer = 0;
