@@ -3,6 +3,8 @@ using System.Collections;
 
 public class Weapon : MonoBehaviour {
 	public int ammo = 30;
+	public int ammoSupply = 90;
+
 	public float fireRate = 0.1f;
 	
 	GameObject soldier;
