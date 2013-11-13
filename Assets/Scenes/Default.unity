@@ -2750,11 +2750,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ammo: 30
+  maxAmmoInClip: 30
   ammoSupply: 90
+  vSwipeDistanceToReload: 5
   fireRate: .100000001
   fireSound: {fileID: 8300000, guid: 9f0301448a90243d49d28bab0cff9055, type: 3}
   finishedFireSound: {fileID: 8300000, guid: 3a77de9e89e4341029fcb371e064aa0d, type: 3}
   singleShotSound: {fileID: 8300000, guid: 3a76bc04897014391a2d6b1541fc689f, type: 3}
+  reloadSound: {fileID: 8300000, guid: b6470be251260427998e36bb5314d05f, type: 3}
   loopFireTime: .100000001
 --- !u!82 &1593392882
 AudioSource:
