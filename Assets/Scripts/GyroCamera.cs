@@ -24,6 +24,10 @@ public class GyroCamera : MonoBehaviour {
 	void Update () {
 #if !UNITY_EDITOR
 		transform.rotation = SensorHelper.rotation;
+#else
+		if(Input.GetKey(KeyCode.W)) {
+			this.transform.position += this.transform.forward;
+		}
 #endif
 	}
 }

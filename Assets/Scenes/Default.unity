@@ -788,6 +788,65 @@ Transform:
   m_LocalScale: {x: 1.00000012, y: .99999994, z: 1}
   m_Children: []
   m_Father: {fileID: 722312764}
+--- !u!1 &570314960
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 100000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+  m_PrefabInternal: {fileID: 1175295405}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 570314962}
+  - 114: {fileID: 570314961}
+  m_Layer: 0
+  m_Name: Mapity
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &570314961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22,
+    type: 2}
+  m_PrefabInternal: {fileID: 1175295405}
+  m_GameObject: {fileID: 570314960}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1c072d8d82c6d74b94287ebcd0d10ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autoLoad: 1
+  downloadMapData: 0
+  openStreetMapApiUrl: http://www.overpass-api.de/api/xapi?
+  queryHeightData: 0
+  geonamesApiUrl: http://api.geonames.org/srtm3?
+  geonamesUsername: gamerdevx
+  useDeviceLocation: 0
+  location: {x: -2.37008095, y: 51.3870316}
+  localMapFileName: Bath
+  saveDownloadedMapData: 1
+  mapFileNameSavePrefix: 
+  enableLogging: 0
+  gizmoDrawNodes: 0
+  gizmoDrawWays: 1
+  gizmoDrawHighWays: 1
+  gizmoDrawHighWaysLabels: 1
+  gizmoDrawWaterWays: 1
+  gizmoDrawBuildings: 1
+  gizmoDrawRelations: 1
+  mapZoom: 2
+--- !u!4 &570314962
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+  m_PrefabInternal: {fileID: 1175295405}
+  m_GameObject: {fileID: 570314960}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
 --- !u!1 &575963526
 GameObject:
   m_ObjectHideFlags: 0
@@ -1407,7 +1466,6 @@ GameObject:
   - 20: {fileID: 964008515}
   - 124: {fileID: 964008514}
   - 92: {fileID: 964008513}
-  - 81: {fileID: 964008512}
   m_Layer: 0
   m_Name: HUDCamera
   m_TagString: Untagged
@@ -1415,13 +1473,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &964008512
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 964008511}
-  m_Enabled: 1
 --- !u!92 &964008513
 Behaviour:
   m_ObjectHideFlags: 0
@@ -1898,6 +1949,102 @@ Transform:
   m_Children:
   - {fileID: 1947180016}
   m_Father: {fileID: 1369235381}
+--- !u!1001 &1175295405
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: queryHeightData
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: geonamesUsername
+      value: gamerdevx
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: location.y
+      value: 51.3870316
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: location.x
+      value: -2.37008095
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: mapZoom
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: saveDownloadedMapData
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: gizmoDrawHighWaysLabels
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: gizmoDrawWaterWays
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: gizmoDrawRelations
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: gizmoDrawBuildings
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: gizmoDrawNodes
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: mapFileNameSavePrefix
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: localMapFileName
+      value: Bath
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+      propertyPath: downloadMapData
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 6545a67cd5830d54aa44c68683e07b22, type: 2}
+  m_RootGameObject: {fileID: 570314960}
+  m_IsPrefabParent: 0
+  m_IsExploded: 1
 --- !u!1 &1175307253
 GameObject:
   m_ObjectHideFlags: 0
@@ -2012,6 +2159,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 1204062744}
   - 114: {fileID: 1204062745}
+  - 114: {fileID: 1204062746}
   m_Layer: 0
   m_Name: SoldierContainer
   m_TagString: Untagged
@@ -2043,6 +2191,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gunSteadySpeed: 5
+--- !u!114 &1204062746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1204062743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26a3761845bdb4d9ea3a5235fee673c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetObject: {fileID: 52611773}
+  offset: {x: 0, y: 0, z: 0}
 --- !u!1 &1270035129
 GameObject:
   m_ObjectHideFlags: 0
@@ -2566,6 +2727,14 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 02e6f78475fc941389bf3b408b852efb, type: 2}
       propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 02e6f78475fc941389bf3b408b852efb, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 02e6f78475fc941389bf3b408b852efb, type: 2}
+      propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
